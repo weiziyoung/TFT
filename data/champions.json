@@ -1,0 +1,623 @@
+[
+	{
+		"name": "Varus",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Varus.png&resize=64:",
+		"price": 2,
+		"origin": [
+			"demon"
+		],
+		"class": [
+			"ranger"
+		]
+	},
+	{
+		"name": "Elise",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Elise.png&resize=64:",
+		"price": 1,
+		"origin": [
+			"demon"
+		],
+		"class": [
+			"shapeshifter"
+		]
+	},
+	{
+		"name": "Morgana",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Morgana.png&resize=64:",
+		"price": 3,
+		"origin": [
+			"demon"
+		],
+		"class": [
+			"sorcerer"
+		]
+	},
+	{
+		"name": "Evelynn",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Evelynn.png&resize=64:",
+		"price": 3,
+		"origin": [
+			"demon"
+		],
+		"class": [
+			"assassin"
+		]
+	},
+	{
+		"name": "Aatrox",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Aatrox.png&resize=64:",
+		"price": 3,
+		"origin": [
+			"demon"
+		],
+		"class": [
+			"blademaster"
+		]
+	},
+	{
+		"name": "Brand",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Brand.png&resize=64:",
+		"price": 4,
+		"origin": [
+			"demon"
+		],
+		"class": [
+			"elementalist"
+		]
+	},
+	{
+		"name": "Swain",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Swain.png&resize=64:",
+		"price": 5,
+		"origin": [
+			"demon",
+			"imperial"
+		],
+		"class": [
+			"shapeshifter"
+		]
+	},
+	{
+		"name": "Shyvana",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Shyvana.png&resize=64:",
+		"price": 3,
+		"origin": [
+			"dragon"
+		],
+		"class": [
+			"shapeshifter"
+		]
+	},
+	{
+		"name": "Aurelion Sol",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/AurelionSol.png&resize=64:",
+		"price": 4,
+		"origin": [
+			"dragon"
+		],
+		"class": [
+			"sorcerer"
+		]
+	},
+	{
+		"name": "Pantheon",
+		"avatar": "//game.gtimg.cn/images/lol/tft/cham-icons/80.png",
+		"price": 5,
+		"origin": [
+			"dragon"
+		],
+		"class": [
+			"guardian"
+		]
+	},
+	{
+		"name": "Yasuo",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Yasuo.png&resize=64:",
+		"price": 5,
+		"origin": [
+			"exile"
+		],
+		"class": [
+			"blademaster"
+		]
+	},
+	{
+		"name": "Braum",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Braum.png&resize=64:",
+		"price": 2,
+		"origin": [
+			"glacial"
+		],
+		"class": [
+			"guardian"
+		]
+	},
+	{
+		"name": "Lissandra",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Lissandra.png&resize=64:",
+		"price": 2,
+		"origin": [
+			"glacial"
+		],
+		"class": [
+			"elementalist"
+		]
+	},
+	{
+		"name": "Ashe",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Ashe.png&resize=64:",
+		"price": 3,
+		"origin": [
+			"glacial"
+		],
+		"class": [
+			"ranger"
+		]
+	},
+	{
+		"name": "Volibear",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Volibear.png&resize=64:",
+		"price": 3,
+		"origin": [
+			"glacial"
+		],
+		"class": [
+			"brawler"
+		]
+	},
+	{
+		"name": "Sejuani",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Sejuani.png&resize=64:",
+		"price": 4,
+		"origin": [
+			"glacial"
+		],
+		"class": [
+			"knight"
+		]
+	},
+	{
+		"name": "Anivia",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Anivia.png&resize=64:",
+		"price": 5,
+		"origin": [
+			"glacial"
+		],
+		"class": [
+			"elementalist"
+		]
+	},
+	{
+		"name": "Blitzcrank",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Blitzcrank.png&resize=64:",
+		"price": 2,
+		"origin": [
+			"robot"
+		],
+		"class": [
+			"brawler"
+		]
+	},
+	{
+		"name": "Darius",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Darius.png&resize=64:",
+		"price": 1,
+		"origin": [
+			"imperial"
+		],
+		"class": [
+			"knight"
+		]
+	},
+	{
+		"name": "Katarina",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Katarina.png&resize=64:",
+		"price": 3,
+		"origin": [
+			"imperial"
+		],
+		"class": [
+			"assassin"
+		]
+	},
+	{
+		"name": "Draven",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Draven.png&resize=64:",
+		"price": 4,
+		"origin": [
+			"imperial"
+		],
+		"class": [
+			"blademaster"
+		]
+	},
+	{
+		"name": "Fiora",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Fiora.png&resize=64:",
+		"price": 1,
+		"origin": [
+			"noble"
+		],
+		"class": [
+			"blademaster"
+		]
+	},
+	{
+		"name": "Garen",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Garen.png&resize=64:",
+		"price": 1,
+		"origin": [
+			"noble"
+		],
+		"class": [
+			"knight"
+		]
+	},
+	{
+		"name": "Vayne",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Vayne.png&resize=64:",
+		"price": 1,
+		"origin": [
+			"noble"
+		],
+		"class": [
+			"ranger"
+		]
+	},
+	{
+		"name": "Lucian",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Lucian.png&resize=64:",
+		"price": 2,
+		"origin": [
+			"noble"
+		],
+		"class": [
+			"gunslinger"
+		]
+	},
+	{
+		"name": "Leona",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Leona.png&resize=64:",
+		"price": 4,
+		"origin": [
+			"noble"
+		],
+		"class": [
+			"guardian"
+		]
+	},
+	{
+		"name": "Kayle",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Kayle.png&resize=64:",
+		"price": 5,
+		"origin": [
+			"noble"
+		],
+		"class": [
+			"knight"
+		]
+	},
+	{
+		"name": "Shen",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Shen.png&resize=64:",
+		"price": 2,
+		"origin": [
+			"ninja"
+		],
+		"class": [
+			"blademaster"
+		]
+	},
+	{
+		"name": "Zed",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Zed.png&resize=64:",
+		"price": 2,
+		"origin": [
+			"ninja"
+		],
+		"class": [
+			"assassin"
+		]
+	},
+	{
+		"name": "Kennen",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Kennen.png&resize=64:",
+		"price": 3,
+		"origin": [
+			"ninja",
+			"yordle"
+		],
+		"class": [
+			"elementalist"
+		]
+	},
+	{
+		"name": "Akali",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Akali.png&resize=64:",
+		"price": 4,
+		"origin": [
+			"ninja"
+		],
+		"class": [
+			"assassin"
+		]
+	},
+	{
+		"name": "Graves",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Graves.png&resize=64:",
+		"price": 1,
+		"origin": [
+			"pirate"
+		],
+		"class": [
+			"gunslinger"
+		]
+	},
+	{
+		"name": "Pyke",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Pyke.png&resize=64:",
+		"price": 2,
+		"origin": [
+			"pirate"
+		],
+		"class": [
+			"assassin"
+		]
+	},
+	{
+		"name": "Twist Fate",
+		"avatar": "game.gtimg.cn/images/lol/tft/cham-icons/4.png",
+		"price": 2,
+		"origin": [
+			"pirate"
+		],
+		"class": [
+			"sorcerer"
+		]
+	},
+	{
+		"name": "Gangplank",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Gangplank.png&resize=64:",
+		"price": 3,
+		"origin": [
+			"pirate"
+		],
+		"class": [
+			"blademaster",
+			"gunslinger"
+		]
+	},
+	{
+		"name": "Miss Fortune",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/MissFortune.png&resize=64:",
+		"price": 5,
+		"origin": [
+			"pirate"
+		],
+		"class": [
+			"gunslinger"
+		]
+	},
+	{
+		"name": "Mordekaiser",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Mordekaiser.png&resize=64:",
+		"price": 1,
+		"origin": [
+			"phantom"
+		],
+		"class": [
+			"knight"
+		]
+	},
+	{
+		"name": "Kindred",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Kindred.png&resize=64:",
+		"price": 4,
+		"origin": [
+			"phantom"
+		],
+		"class": [
+			"ranger"
+		]
+	},
+	{
+		"name": "Karthus",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Karthus.png&resize=64:",
+		"price": 5,
+		"origin": [
+			"phantom"
+		],
+		"class": [
+			"sorcerer"
+		]
+	},
+	{
+		"name": "Warwick",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Warwick.png&resize=64:",
+		"price": 1,
+		"origin": [
+			"wild"
+		],
+		"class": [
+			"brawler"
+		]
+	},
+	{
+		"name": "Nidalee",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Nidalee.png&resize=64:",
+		"price": 1,
+		"origin": [
+			"wild"
+		],
+		"class": [
+			"shapeshifter"
+		]
+	},
+	{
+		"name": "Ahri",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Ahri.png&resize=64:",
+		"price": 2,
+		"origin": [
+			"wild"
+		],
+		"class": [
+			"sorcerer"
+		]
+	},
+	{
+		"name": "Rengar",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Rengar.png&resize=64:",
+		"price": 3,
+		"origin": [
+			"wild"
+		],
+		"class": [
+			"assassin"
+		]
+	},
+	{
+		"name": "Gnar",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Gnar.png&resize=64:",
+		"price": 4,
+		"origin": [
+			"wild",
+			"yordle"
+		],
+		"class": [
+			"shapeshifter"
+		]
+	},
+	{
+		"name": "Kha'Zix",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Khazix.png&resize=64:",
+		"price": 1,
+		"origin": [
+			"void"
+		],
+		"class": [
+			"assassin"
+		]
+	},
+	{
+		"name": "Kassadin",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Kassadin.png&resize=64:",
+		"price": 1,
+		"origin": [
+			"void"
+		],
+		"class": [
+			"sorcerer"
+		]
+	},
+	{
+		"name": "Rek'Sai",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/RekSai.png&resize=64:",
+		"price": 2,
+		"origin": [
+			"void"
+		],
+		"class": [
+			"brawler"
+		]
+	},
+	{
+		"name": "Cho'Gath",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Chogath.png&resize=64:",
+		"price": 4,
+		"origin": [
+			"void"
+		],
+		"class": [
+			"brawler"
+		]
+	},
+	{
+		"name": "Kaisa",
+		"avatar": "//game.gtimg.cn/images/lol/tft/cham-icons/145.png",
+		"price": 5,
+		"origin": [
+			"void"
+		],
+		"class": [
+			"assassin",
+			"ranger"
+		]
+	},
+	{
+		"name": "Tristana",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Tristana.png&resize=64:",
+		"price": 1,
+		"origin": [
+			"yordle"
+		],
+		"class": [
+			"gunslinger"
+		]
+	},
+	{
+		"name": "Lulu",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Lulu.png&resize=64:",
+		"price": 2,
+		"origin": [
+			"yordle"
+		],
+		"class": [
+			"sorcerer"
+		]
+	},
+	{
+		"name": "Poppy",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Poppy.png&resize=64:",
+		"price": 3,
+		"origin": [
+			"yordle"
+		],
+		"class": [
+			"knight"
+		]
+	},
+	{
+		"name": "Veigar",
+		"avatar": "https://am-a.akamaihd.net/image?f=https://news-a.akamaihd.net/public/images/articles/2019/june/tftcompendium/Champions/Veigar.png&resize=64:",
+		"price": 3,
+		"origin": [
+			"yordle"
+		],
+		"class": [
+			"sorcerer"
+		]
+	},
+	{
+		"name": "Camille",
+		"avatar": "game.gtimg.cn/images/lol/tft/cham-icons/164.png",
+		"price": 1,
+		"origin": [
+			"Hextech"
+		],
+		"class": [
+			"blademaster"
+		]
+	},
+	{
+		"name": "VI",
+		"avatar": "game.gtimg.cn/images/lol/tft/cham-icons/254.png",
+		"price": 3,
+		"origin": [
+			"Hextech"
+		],
+		"class": [
+			"brawler"
+		]
+	},
+	{
+		"name": "Jinx",
+		"avatar": "game.gtimg.cn/images/lol/tft/cham-icons/222.png",
+		"price": 4,
+		"origin": [
+			"Hextech"
+		],
+		"class": [
+			"gunslinger"
+		]
+	}
+]

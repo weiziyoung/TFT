@@ -1,0 +1,2981 @@
+[
+    {
+        "combo": [
+            "Yasuo",
+            "Fiora",
+            "Garen",
+            "Vayne",
+            "Lucian",
+            "Leona",
+            "Kayle",
+            "Shen",
+            "Gangplank"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "blademaster": 3,
+            "exile": 1,
+            "gunslinger": 2,
+            "knight": 2,
+            "ninja": 1,
+            "noble": 6
+        },
+        "total_trait_num": 42,
+        "total_strength": 57.45
+    },
+    {
+        "combo": [
+            "Pantheon",
+            "Braum",
+            "Sejuani",
+            "Garen",
+            "Lucian",
+            "Kayle",
+            "Kennen",
+            "Tristana",
+            "Poppy"
+        ],
+        "trait_num": 8,
+        "trait_detail": {
+            "glacial": 2,
+            "guardian": 2,
+            "gunslinger": 2,
+            "knight": 4,
+            "ninja": 1,
+            "noble": 3,
+            "yordle": 3
+        },
+        "total_trait_num": 41,
+        "total_strength": 56.7
+    },
+    {
+        "combo": [
+            "Pantheon",
+            "Braum",
+            "Sejuani",
+            "Garen",
+            "Lucian",
+            "Kayle",
+            "Kennen",
+            "Tristana",
+            "Poppy"
+        ],
+        "trait_num": 8,
+        "trait_detail": {
+            "glacial": 2,
+            "guardian": 2,
+            "gunslinger": 2,
+            "knight": 4,
+            "ninja": 1,
+            "noble": 3,
+            "yordle": 3
+        },
+        "total_trait_num": 41,
+        "total_strength": 56.7
+    },
+    {
+        "combo": [
+            "Braum",
+            "Sejuani",
+            "Garen",
+            "Lucian",
+            "Leona",
+            "Kayle",
+            "Kennen",
+            "Tristana",
+            "Poppy"
+        ],
+        "trait_num": 8,
+        "trait_detail": {
+            "glacial": 2,
+            "guardian": 2,
+            "gunslinger": 2,
+            "knight": 4,
+            "ninja": 1,
+            "noble": 3,
+            "yordle": 3
+        },
+        "total_trait_num": 41,
+        "total_strength": 56.7
+    },
+    {
+        "combo": [
+            "Pantheon",
+            "Braum",
+            "Sejuani",
+            "Garen",
+            "Lucian",
+            "Kayle",
+            "Kennen",
+            "Tristana",
+            "Poppy"
+        ],
+        "trait_num": 8,
+        "trait_detail": {
+            "glacial": 2,
+            "guardian": 2,
+            "gunslinger": 2,
+            "knight": 4,
+            "ninja": 1,
+            "noble": 3,
+            "yordle": 3
+        },
+        "total_trait_num": 41,
+        "total_strength": 56.7
+    },
+    {
+        "combo": [
+            "Braum",
+            "Sejuani",
+            "Garen",
+            "Lucian",
+            "Leona",
+            "Kayle",
+            "Kennen",
+            "Tristana",
+            "Poppy"
+        ],
+        "trait_num": 8,
+        "trait_detail": {
+            "glacial": 2,
+            "guardian": 2,
+            "gunslinger": 2,
+            "knight": 4,
+            "ninja": 1,
+            "noble": 3,
+            "yordle": 3
+        },
+        "total_trait_num": 41,
+        "total_strength": 56.7
+    },
+    {
+        "combo": [
+            "Pantheon",
+            "Braum",
+            "Sejuani",
+            "Garen",
+            "Lucian",
+            "Kayle",
+            "Kennen",
+            "Tristana",
+            "Poppy"
+        ],
+        "trait_num": 8,
+        "trait_detail": {
+            "glacial": 2,
+            "guardian": 2,
+            "gunslinger": 2,
+            "knight": 4,
+            "ninja": 1,
+            "noble": 3,
+            "yordle": 3
+        },
+        "total_trait_num": 41,
+        "total_strength": 56.7
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Darius",
+            "Mordekaiser",
+            "Kindred"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "demon": 6,
+            "imperial": 2,
+            "knight": 2,
+            "phantom": 2,
+            "ranger": 2
+        },
+        "total_trait_num": 31,
+        "total_strength": 46.229996
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Nidalee",
+            "Rengar",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ranger": 2,
+            "shapeshifter": 3,
+            "wild": 2
+        },
+        "total_trait_num": 28,
+        "total_strength": 43.18
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Nidalee",
+            "Rengar",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ranger": 2,
+            "shapeshifter": 3,
+            "wild": 2
+        },
+        "total_trait_num": 28,
+        "total_strength": 43.18
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Shyvana",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "shapeshifter": 3
+        },
+        "total_trait_num": 27,
+        "total_strength": 42.28
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Shyvana",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "shapeshifter": 3
+        },
+        "total_trait_num": 27,
+        "total_strength": 42.28
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Katarina",
+            "Rengar",
+            "Gnar"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "shapeshifter": 3,
+            "wild": 2
+        },
+        "total_trait_num": 27,
+        "total_strength": 42.18
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Akali",
+            "Rengar",
+            "Gnar"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "shapeshifter": 3,
+            "wild": 2
+        },
+        "total_trait_num": 27,
+        "total_strength": 42.18
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Akali",
+            "Rengar",
+            "Gnar"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "shapeshifter": 3,
+            "wild": 2
+        },
+        "total_trait_num": 27,
+        "total_strength": 42.18
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Zed",
+            "Rengar",
+            "Gnar"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "shapeshifter": 3,
+            "wild": 2
+        },
+        "total_trait_num": 27,
+        "total_strength": 42.18
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Katarina",
+            "Rengar",
+            "Gnar"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "shapeshifter": 3,
+            "wild": 2
+        },
+        "total_trait_num": 27,
+        "total_strength": 42.18
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Zed",
+            "Rengar",
+            "Gnar"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "shapeshifter": 3,
+            "wild": 2
+        },
+        "total_trait_num": 27,
+        "total_strength": 42.18
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Shyvana",
+            "Yasuo",
+            "Shen"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "blademaster": 3,
+            "demon": 6,
+            "exile": 1,
+            "ninja": 1,
+            "shapeshifter": 3
+        },
+        "total_trait_num": 26,
+        "total_strength": 41.18
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Shyvana",
+            "Yasuo",
+            "Shen"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "blademaster": 3,
+            "demon": 6,
+            "exile": 1,
+            "ninja": 1,
+            "shapeshifter": 3
+        },
+        "total_trait_num": 26,
+        "total_strength": 41.18
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Katarina",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.98
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Katarina",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.98
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Katarina",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.98
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Katarina",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.98
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Katarina",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.98
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Katarina",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.979996
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Katarina",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.979996
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Katarina",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.979996
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Blitzcrank",
+            "Warwick",
+            "Nidalee"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 6,
+            "robot": 1,
+            "shapeshifter": 3,
+            "wild": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.88
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.88
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Blitzcrank",
+            "Warwick",
+            "Gnar"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 6,
+            "robot": 1,
+            "shapeshifter": 3,
+            "wild": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.88
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Katarina",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.88
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.88
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.88
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Brand",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.88
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Blitzcrank",
+            "Warwick",
+            "Gnar"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 6,
+            "robot": 1,
+            "shapeshifter": 3,
+            "wild": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.88
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Brand",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.88
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Blitzcrank",
+            "Warwick",
+            "Nidalee"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 6,
+            "robot": 1,
+            "shapeshifter": 3,
+            "wild": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.88
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.88
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.88
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.879997
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Katarina",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.879997
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Katarina",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.879997
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.879997
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Brand",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.879997
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Katarina",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.879997
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.879997
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Brand",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 26,
+        "total_strength": 40.879997
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Blitzcrank",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1
+        },
+        "total_trait_num": 25,
+        "total_strength": 40.079998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Brand",
+            "Blitzcrank",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1
+        },
+        "total_trait_num": 25,
+        "total_strength": 40.079998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Blitzcrank",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1
+        },
+        "total_trait_num": 25,
+        "total_strength": 40.079998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Brand",
+            "Blitzcrank",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1
+        },
+        "total_trait_num": 25,
+        "total_strength": 40.079998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Blitzcrank",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1
+        },
+        "total_trait_num": 25,
+        "total_strength": 40.079998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Blitzcrank",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1
+        },
+        "total_trait_num": 25,
+        "total_strength": 40.079998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Yasuo",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 25,
+        "total_strength": 39.78
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Brand",
+            "Yasuo",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 25,
+        "total_strength": 39.78
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Yasuo",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 25,
+        "total_strength": 39.78
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Yasuo",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 25,
+        "total_strength": 39.78
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Yasuo",
+            "Draven",
+            "Shen"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "blademaster": 3,
+            "demon": 6,
+            "exile": 1,
+            "imperial": 2,
+            "ninja": 1
+        },
+        "total_trait_num": 25,
+        "total_strength": 39.78
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Yasuo",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 25,
+        "total_strength": 39.78
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Yasuo",
+            "Draven",
+            "Shen"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "blademaster": 3,
+            "demon": 6,
+            "exile": 1,
+            "imperial": 2,
+            "ninja": 1
+        },
+        "total_trait_num": 25,
+        "total_strength": 39.78
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Brand",
+            "Yasuo",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 25,
+        "total_strength": 39.78
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Draven",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 25,
+        "total_strength": 39.579998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Darius",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 25,
+        "total_strength": 39.579998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Draven",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 25,
+        "total_strength": 39.579998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Darius",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 25,
+        "total_strength": 39.579998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Draven",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 25,
+        "total_strength": 39.579998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Draven",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 25,
+        "total_strength": 39.579998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Darius",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 6,
+            "imperial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 25,
+        "total_strength": 39.579998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Brand",
+            "Lissandra",
+            "Ashe",
+            "Kennen"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "demon": 6,
+            "elementalist": 3,
+            "glacial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 24,
+        "total_strength": 39.479996
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Yasuo",
+            "Blitzcrank",
+            "Shen"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "blademaster": 3,
+            "demon": 6,
+            "exile": 1,
+            "ninja": 1,
+            "robot": 1
+        },
+        "total_trait_num": 24,
+        "total_strength": 38.98
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Brand",
+            "Yasuo",
+            "Blitzcrank",
+            "Shen"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "blademaster": 3,
+            "demon": 6,
+            "exile": 1,
+            "ninja": 1,
+            "robot": 1
+        },
+        "total_trait_num": 24,
+        "total_strength": 38.98
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Yasuo",
+            "Draven",
+            "Kennen"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "blademaster": 3,
+            "demon": 6,
+            "exile": 1,
+            "imperial": 2,
+            "ninja": 1
+        },
+        "total_trait_num": 24,
+        "total_strength": 38.48
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Yasuo",
+            "Draven",
+            "Shen"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "blademaster": 3,
+            "demon": 6,
+            "exile": 1,
+            "imperial": 2,
+            "ninja": 1
+        },
+        "total_trait_num": 24,
+        "total_strength": 38.48
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Yasuo",
+            "Draven",
+            "Zed"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "blademaster": 3,
+            "demon": 6,
+            "exile": 1,
+            "imperial": 2,
+            "ninja": 1
+        },
+        "total_trait_num": 24,
+        "total_strength": 38.48
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Yasuo",
+            "Draven",
+            "Akali"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "blademaster": 3,
+            "demon": 6,
+            "exile": 1,
+            "imperial": 2,
+            "ninja": 1
+        },
+        "total_trait_num": 24,
+        "total_strength": 38.48
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Yasuo",
+            "Draven",
+            "Shen"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "blademaster": 3,
+            "demon": 6,
+            "exile": 1,
+            "imperial": 2,
+            "ninja": 1
+        },
+        "total_trait_num": 24,
+        "total_strength": 38.48
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Brand",
+            "Blitzcrank",
+            "Rek'Sai",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 6,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 24,
+        "total_strength": 38.18
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Blitzcrank",
+            "Rek'Sai",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 6,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 24,
+        "total_strength": 38.18
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Swain",
+            "Blitzcrank",
+            "Cho'Gath",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 6,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 24,
+        "total_strength": 38.18
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Blitzcrank",
+            "Rek'Sai",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 6,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 24,
+        "total_strength": 38.18
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Swain",
+            "Blitzcrank",
+            "Cho'Gath",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 6,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 24,
+        "total_strength": 38.18
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Fiora",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "blademaster": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 20,
+        "total_strength": 29.000002
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Fiora",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "blademaster": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 20,
+        "total_strength": 29
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Lissandra",
+            "Anivia",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "elementalist": 3,
+            "glacial": 2,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 29
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Fiora",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "blademaster": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 20,
+        "total_strength": 29
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Draven",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "blademaster": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 20,
+        "total_strength": 29
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Draven",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "blademaster": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 20,
+        "total_strength": 29
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Draven",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "blademaster": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 20,
+        "total_strength": 29
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Fiora",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "blademaster": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 20,
+        "total_strength": 29
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Draven",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "blademaster": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2
+        },
+        "total_trait_num": 20,
+        "total_strength": 29
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Blitzcrank",
+            "Warwick",
+            "Rengar",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "brawler": 2,
+            "demon": 4,
+            "ranger": 2,
+            "robot": 1,
+            "wild": 2
+        },
+        "total_trait_num": 20,
+        "total_strength": 28.7
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Blitzcrank",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 28.2
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Blitzcrank",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 28.2
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Blitzcrank",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 28.2
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Blitzcrank",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 28.199999
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 27.900002
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 27.900002
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 27.900002
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Yasuo",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 27.9
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 27.9
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 27.9
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Yasuo",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 27.9
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 27.9
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 27.9
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Yasuo",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 27.9
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 27.9
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Yasuo",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "void": 2
+        },
+        "total_trait_num": 19,
+        "total_strength": 27.9
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Yasuo",
+            "Blitzcrank",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1
+        },
+        "total_trait_num": 18,
+        "total_strength": 27.100002
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Blitzcrank",
+            "Akali",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1
+        },
+        "total_trait_num": 18,
+        "total_strength": 27.1
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Blitzcrank",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1
+        },
+        "total_trait_num": 18,
+        "total_strength": 27.099998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Yasuo",
+            "Blitzcrank",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1
+        },
+        "total_trait_num": 18,
+        "total_strength": 27.099998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Blitzcrank",
+            "Zed",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "demon": 4,
+            "exile": 1,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1
+        },
+        "total_trait_num": 18,
+        "total_strength": 27.099998
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Lissandra",
+            "Ashe",
+            "Blitzcrank",
+            "Kennen"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "demon": 4,
+            "elementalist": 3,
+            "glacial": 2,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1
+        },
+        "total_trait_num": 17,
+        "total_strength": 26.800001
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Lissandra",
+            "Volibear",
+            "Blitzcrank",
+            "Kennen"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 4,
+            "elementalist": 3,
+            "glacial": 2,
+            "ninja": 1,
+            "robot": 1
+        },
+        "total_trait_num": 17,
+        "total_strength": 26.7
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Blitzcrank",
+            "Zed",
+            "Kha'Zix",
+            "Cho'Gath"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "brawler": 2,
+            "demon": 4,
+            "ninja": 1,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 18,
+        "total_strength": 26.7
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Lissandra",
+            "Volibear",
+            "Blitzcrank",
+            "Kennen"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 4,
+            "elementalist": 3,
+            "glacial": 2,
+            "ninja": 1,
+            "robot": 1
+        },
+        "total_trait_num": 17,
+        "total_strength": 26.7
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Blitzcrank",
+            "Zed",
+            "Kha'Zix",
+            "Rek'Sai"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "brawler": 2,
+            "demon": 4,
+            "ninja": 1,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 18,
+        "total_strength": 26.7
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Blitzcrank",
+            "Akali",
+            "Kha'Zix",
+            "Cho'Gath"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "brawler": 2,
+            "demon": 4,
+            "ninja": 1,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 18,
+        "total_strength": 26.699999
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Blitzcrank",
+            "Akali",
+            "Kha'Zix",
+            "Rek'Sai"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "brawler": 2,
+            "demon": 4,
+            "ninja": 1,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 18,
+        "total_strength": 26.699999
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Blitzcrank",
+            "Shen",
+            "Camille",
+            "VI"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "Hextech": 2,
+            "blademaster": 3,
+            "brawler": 2,
+            "demon": 4,
+            "ninja": 1,
+            "robot": 1
+        },
+        "total_trait_num": 18,
+        "total_strength": 26.5
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Blitzcrank",
+            "Rek'Sai",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 4,
+            "exile": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 17,
+        "total_strength": 25.2
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Blitzcrank",
+            "Cho'Gath",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 4,
+            "exile": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 17,
+        "total_strength": 25.2
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Yasuo",
+            "Blitzcrank",
+            "Rek'Sai",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 4,
+            "exile": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 17,
+        "total_strength": 25.2
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Blitzcrank",
+            "Cho'Gath",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 4,
+            "exile": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 17,
+        "total_strength": 25.2
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Aatrox",
+            "Yasuo",
+            "Blitzcrank",
+            "Rek'Sai",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 4,
+            "exile": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 17,
+        "total_strength": 25.2
+    },
+    {
+        "combo": [
+            "Varus",
+            "Elise",
+            "Morgana",
+            "Evelynn",
+            "Brand",
+            "Yasuo",
+            "Blitzcrank",
+            "Cho'Gath",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "brawler": 2,
+            "demon": 4,
+            "exile": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 17,
+        "total_strength": 25.199999
+    }
+]

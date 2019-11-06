@@ -1,0 +1,178 @@
+[
+    {
+        "combo": [
+            "Ashe",
+            "Volibear",
+            "Blitzcrank",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "brawler": 2,
+            "glacial": 2,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 12,
+        "total_strength": 16.6
+    },
+    {
+        "combo": [
+            "Ashe",
+            "Volibear",
+            "Blitzcrank",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "brawler": 2,
+            "glacial": 2,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 12,
+        "total_strength": 16.6
+    },
+    {
+        "combo": [
+            "Ashe",
+            "Volibear",
+            "Blitzcrank",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "brawler": 2,
+            "glacial": 2,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 12,
+        "total_strength": 16.6
+    },
+    {
+        "combo": [
+            "Ashe",
+            "Volibear",
+            "Blitzcrank",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "brawler": 2,
+            "glacial": 2,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 12,
+        "total_strength": 16.6
+    },
+    {
+        "combo": [
+            "Ashe",
+            "Volibear",
+            "Blitzcrank",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "brawler": 2,
+            "glacial": 2,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 12,
+        "total_strength": 16.6
+    },
+    {
+        "combo": [
+            "Ashe",
+            "Volibear",
+            "Blitzcrank",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "brawler": 2,
+            "glacial": 2,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 12,
+        "total_strength": 16.599998
+    },
+    {
+        "combo": [
+            "Ashe",
+            "Volibear",
+            "Blitzcrank",
+            "Zed",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "brawler": 2,
+            "glacial": 2,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 12,
+        "total_strength": 16.599998
+    },
+    {
+        "combo": [
+            "Ashe",
+            "Volibear",
+            "Blitzcrank",
+            "Akali",
+            "Kha'Zix",
+            "Kaisa"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "assassin": 3,
+            "brawler": 2,
+            "glacial": 2,
+            "ninja": 1,
+            "ranger": 2,
+            "robot": 1,
+            "void": 2
+        },
+        "total_trait_num": 12,
+        "total_strength": 16.599998
+    }
+]

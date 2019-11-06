@@ -1,0 +1,533 @@
+[
+	{
+		"name": "demon",
+		"bonus_num": [
+			2,
+			4,
+			6
+		],
+		"scope": [
+			2,
+			2,
+			2
+		],
+		"strength": [
+			1.2,
+			1.52,
+			1.66
+		],
+		"champions": [
+			"Varus",
+			"Elise",
+			"Morgana",
+			"Evelynn",
+			"Aatrox",
+			"Brand",
+			"Swain"
+		]
+	},
+	{
+		"name": "imperial",
+		"bonus_num": [
+			2,
+			4
+		],
+		"scope": [
+			1,
+			2
+		],
+		"strength": [
+			1.5,
+			1.5
+		],
+		"champions": [
+			"Swain",
+			"Darius",
+			"Katarina",
+			"Draven"
+		]
+	},
+	{
+		"name": "dragon",
+		"bonus_num": [
+			2
+		],
+		"scope": [
+			2
+		],
+		"strength": [
+			2
+		],
+		"champions": [
+			"Shyvana",
+			"Aurelion Sol",
+			"Pantheon"
+		]
+	},
+	{
+		"name": "exile",
+		"bonus_num": [
+			1
+		],
+		"scope": [
+			1
+		],
+		"strength": [
+			1.7
+		],
+		"champions": [
+			"Yasuo"
+		]
+	},
+	{
+		"name": "glacial",
+		"bonus_num": [
+			2,
+			4,
+			6
+		],
+		"scope": [
+			2,
+			2,
+			2
+		],
+		"strength": [
+			1.3,
+			1.45,
+			1.67
+		],
+		"champions": [
+			"Braum",
+			"Lissandra",
+			"Ashe",
+			"Volibear",
+			"Sejuani",
+			"Anivia"
+		]
+	},
+	{
+		"name": "robot",
+		"bonus_num": [
+			1
+		],
+		"scope": [
+			1
+		],
+		"strength": [
+			2
+		],
+		"champions": [
+			"Blitzcrank"
+		]
+	},
+	{
+		"name": "noble",
+		"bonus_num": [
+			3,
+			6
+		],
+		"scope": [
+			1,
+			3
+		],
+		"strength": [
+			1.5,
+			1.5
+		],
+		"champions": [
+			"Fiora",
+			"Garen",
+			"Vayne",
+			"Lucian",
+			"Leona",
+			"Kayle"
+		]
+	},
+	{
+		"name": "ninja",
+		"bonus_num": [
+			1,
+			4
+		],
+		"scope": [
+			1,
+			2
+		],
+		"strength": [
+			1.5,
+			1.75
+		],
+		"champions": [
+			"Shen",
+			"Zed",
+			"Kennen",
+			"Akali"
+		]
+	},
+	{
+		"name": "yordle",
+		"bonus_num": [
+			3,
+			6,
+			9
+		],
+		"scope": [
+			2,
+			2,
+			2
+		],
+		"strength": [
+			1.3,
+			1.75,
+			2.5
+		],
+		"champions": [
+			"Kennen",
+			"Gnar",
+			"Tristana",
+			"Lulu",
+			"Poppy",
+			"Veigar"
+		]
+	},
+	{
+		"name": "pirate",
+		"bonus_num": [
+			3
+		],
+		"scope": [
+			1
+		],
+		"strength": [
+			1
+		],
+		"champions": [
+			"Graves",
+			"Pyke",
+			"Twist Fate",
+			"Gangplank",
+			"Miss Fortune"
+		]
+	},
+	{
+		"name": "phantom",
+		"bonus_num": [
+			2
+		],
+		"scope": [
+			1
+		],
+		"strength": [
+			2
+		],
+		"champions": [
+			"Mordekaiser",
+			"Kindred",
+			"Karthus"
+		]
+	},
+	{
+		"name": "wild",
+		"bonus_num": [
+			2,
+			4
+		],
+		"scope": [
+			2,
+			3
+		],
+		"strength": [
+			1.2,
+			1.2
+		],
+		"champions": [
+			"Warwick",
+			"Nidalee",
+			"Ahri",
+			"Rengar",
+			"Gnar"
+		]
+	},
+	{
+		"name": "void",
+		"bonus_num": [
+			2,
+			4
+		],
+		"scope": [
+			1,
+			2
+		],
+		"strength": [
+			1.4,
+			1.4
+		],
+		"champions": [
+			"Kha'Zix",
+			"Kassadin",
+			"Rek'Sai",
+			"Cho'Gath",
+			"Kaisa"
+		]
+	},
+	{
+		"name": "Hextech",
+		"bonus_num": [
+			2,
+			4
+		],
+		"scope": [
+			1,
+			2
+		],
+		"strength": [
+			1.5,
+			1.5
+		],
+		"champions": [
+			"Camille",
+			"VI",
+			"Jinx"
+		]
+	},
+	{
+		"name": "ranger",
+		"bonus_num": [
+			2,
+			4
+		],
+		"scope": [
+			2,
+			2
+		],
+		"strength": [
+			1.25,
+			1.65
+		],
+		"champions": [
+			"Varus",
+			"Ashe",
+			"Vayne",
+			"Kindred",
+			"Kaisa"
+		]
+	},
+	{
+		"name": "shapeshifter",
+		"bonus_num": [
+			3,
+			6
+		],
+		"scope": [
+			2,
+			2
+		],
+		"strength": [
+			1.4,
+			1.8
+		],
+		"champions": [
+			"Elise",
+			"Swain",
+			"Shyvana",
+			"Nidalee",
+			"Gnar"
+		]
+	},
+	{
+		"name": "sorcerer",
+		"bonus_num": [
+			3,
+			6,
+			9
+		],
+		"scope": [
+			3,
+			3,
+			3
+		],
+		"strength": [
+			1.3,
+			1.75,
+			2.3
+		],
+		"champions": [
+			"Morgana",
+			"Aurelion Sol",
+			"Twist Fate",
+			"Karthus",
+			"Ahri",
+			"Kassadin",
+			"Lulu",
+			"Veigar"
+		]
+	},
+	{
+		"name": "assassin",
+		"bonus_num": [
+			3,
+			6,
+			9
+		],
+		"scope": [
+			2,
+			2,
+			2
+		],
+		"strength": [
+			1.4,
+			1.8,
+			2.2
+		],
+		"champions": [
+			"Evelynn",
+			"Katarina",
+			"Zed",
+			"Akali",
+			"Pyke",
+			"Rengar",
+			"Kha'Zix",
+			"Kaisa"
+		]
+	},
+	{
+		"name": "blademaster",
+		"bonus_num": [
+			3,
+			6,
+			9
+		],
+		"scope": [
+			2,
+			2,
+			2
+		],
+		"strength": [
+			1.3,
+			1.6,
+			2.2
+		],
+		"champions": [
+			"Aatrox",
+			"Yasuo",
+			"Draven",
+			"Fiora",
+			"Shen",
+			"Gangplank",
+			"Camille"
+		]
+	},
+	{
+		"name": "elementalist",
+		"bonus_num": [
+			3
+		],
+		"scope": [
+			1
+		],
+		"strength": [
+			3
+		],
+		"champions": [
+			"Brand",
+			"Lissandra",
+			"Anivia",
+			"Kennen"
+		]
+	},
+	{
+		"name": "guardian",
+		"bonus_num": [
+			2
+		],
+		"scope": [
+			4
+		],
+		"strength": [
+			1.6
+		],
+		"champions": [
+			"Pantheon",
+			"Braum",
+			"Leona"
+		]
+	},
+	{
+		"name": "brawler",
+		"bonus_num": [
+			2,
+			4,
+			6
+		],
+		"scope": [
+			2,
+			2,
+			2
+		],
+		"strength": [
+			1.2,
+			1.4,
+			1.7
+		],
+		"champions": [
+			"Volibear",
+			"Blitzcrank",
+			"Warwick",
+			"Rek'Sai",
+			"Cho'Gath",
+			"VI"
+		]
+	},
+	{
+		"name": "knight",
+		"bonus_num": [
+			2,
+			4,
+			6
+		],
+		"scope": [
+			3,
+			3,
+			3
+		],
+		"strength": [
+			1.15,
+			1.35,
+			1.65
+		],
+		"champions": [
+			"Sejuani",
+			"Darius",
+			"Garen",
+			"Kayle",
+			"Mordekaiser",
+			"Poppy"
+		]
+	},
+	{
+		"name": "gunslinger",
+		"bonus_num": [
+			2,
+			4,
+			6
+		],
+		"scope": [
+			3,
+			3,
+			3
+		],
+		"strength": [
+			1.3,
+			1.6,
+			1.9
+		],
+		"champions": [
+			"Sejuani",
+			"Darius",
+			"Garen",
+			"Kayle",
+			"Mordekaiser",
+			"Poppy"
+		]
+	}
+]
