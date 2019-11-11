@@ -13,8 +13,10 @@ var (
 	OneTraitChampionNameList []string
 	TraitDict    map[string]models.Trait
 	ChampionDict map[string]models.Champion
+	TranslateDict map[string]string
 	Bar          *progressbar.ProgressBar
 	Counter      int64
+	GainLevel 	 float32
 )
 
 func init() {
@@ -37,6 +39,7 @@ func init() {
 			Strength: trait.Strength,
 		}
 	}
+	GainLevel = 1.2
 
 	// Init champion file
 	championFile, err := os.Open("data/champions.json")
@@ -45,6 +48,15 @@ func init() {
 	}
 	jsonParser = json.NewDecoder(championFile)
 	if err = jsonParser.Decode(&ChampionList); err != nil {
+		panic(err.Error())
+	}
+
+	translateFile, err := os.Open("data/language.json")
+	if err != nil {
+		panic("Open language file fail")
+	}
+	jsonParser = json.NewDecoder(translateFile)
+	if err = jsonParser.Decode(&TranslateDict); err!=nil {
 		panic(err.Error())
 	}
 	ChampionDict = make(map[string]models.Champion)

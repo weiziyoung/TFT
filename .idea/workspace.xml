@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efe0865a-8d0d-4c0f-bcf6-a6e22a71bdcf" name="Default Changelist" comment="" />
+    <list default="true" id="efe0865a-8d0d-4c0f-bcf6-a6e22a71bdcf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/check/checkResult.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_scripts/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_scripts/graph_visualisation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_scripts/translate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/search.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/traverse.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/extend.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/math.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/translate.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualisation/champion_graph.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/champions.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/champions_comb6.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions_comb6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/champions_comb7.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions_comb7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/champions_comb8.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions_comb8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/champions_comb9.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions_comb9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/traits.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/traits.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluate/evaluation.go" beforeDir="false" afterPath="$PROJECT_DIR$/evaluate/evaluation.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globals/global.go" beforeDir="false" afterPath="$PROJECT_DIR$/globals/global.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/metrics.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/metrics.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/graph.go" beforeDir="false" afterPath="$PROJECT_DIR$/search/graph.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,21 +35,36 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
         <option value="Go File" />
       </list>
     </option>
   </component>
   <component name="GOROOT" path="$USER_HOME$/go113/go1.13.3" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1T4A1pLA9yQ1jDVNP0EJVcKxuzo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/visualisation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -58,15 +97,94 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="download" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_scripts/download.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="graph_visualisation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_scripts/graph_visualisation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="translate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_scripts/translate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Python.download" />
+        <item itemvalue="Python.graph_visualisation" />
+        <item itemvalue="Python.translate" />
         <item itemvalue="Go Build.go build graph.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VgoProject">
     <proxy>https://goproxy.cn,direct</proxy>

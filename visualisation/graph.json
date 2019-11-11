@@ -1,0 +1,2592 @@
+{
+	"nodes": [
+		{
+			"id": "0",
+			"name": "维鲁斯",
+			"cluster": "恶魔",
+			"value": 10
+		},
+		{
+			"id": "1",
+			"name": "蜘蛛",
+			"cluster": "恶魔",
+			"value": 5
+		},
+		{
+			"id": "2",
+			"name": "莫甘娜",
+			"cluster": "恶魔",
+			"value": 15
+		},
+		{
+			"id": "3",
+			"name": "寡妇",
+			"cluster": "恶魔",
+			"value": 15
+		},
+		{
+			"id": "4",
+			"name": "剑魔",
+			"cluster": "恶魔",
+			"value": 15
+		},
+		{
+			"id": "5",
+			"name": "火男",
+			"cluster": "恶魔",
+			"value": 20
+		},
+		{
+			"id": "6",
+			"name": "乌鸦",
+			"cluster": "恶魔",
+			"value": 25
+		},
+		{
+			"id": "7",
+			"name": "龙女",
+			"cluster": "龙",
+			"value": 15
+		},
+		{
+			"id": "8",
+			"name": "龙王",
+			"cluster": "龙",
+			"value": 20
+		},
+		{
+			"id": "9",
+			"name": "潘森",
+			"cluster": "龙",
+			"value": 25
+		},
+		{
+			"id": "10",
+			"name": "亚索",
+			"cluster": "浪人",
+			"value": 25
+		},
+		{
+			"id": "11",
+			"name": "布隆",
+			"cluster": "冰川",
+			"value": 10
+		},
+		{
+			"id": "12",
+			"name": "丽桑卓",
+			"cluster": "冰川",
+			"value": 10
+		},
+		{
+			"id": "13",
+			"name": "艾希",
+			"cluster": "冰川",
+			"value": 15
+		},
+		{
+			"id": "14",
+			"name": "狗熊",
+			"cluster": "冰川",
+			"value": 15
+		},
+		{
+			"id": "15",
+			"name": "猪妹",
+			"cluster": "冰川",
+			"value": 20
+		},
+		{
+			"id": "16",
+			"name": "冰鸟",
+			"cluster": "冰川",
+			"value": 25
+		},
+		{
+			"id": "17",
+			"name": "机器人",
+			"cluster": "机器人",
+			"value": 10
+		},
+		{
+			"id": "18",
+			"name": "诺手",
+			"cluster": "帝国",
+			"value": 5
+		},
+		{
+			"id": "19",
+			"name": "卡特",
+			"cluster": "帝国",
+			"value": 15
+		},
+		{
+			"id": "20",
+			"name": "德莱文",
+			"cluster": "帝国",
+			"value": 20
+		},
+		{
+			"id": "21",
+			"name": "剑姬",
+			"cluster": "贵族",
+			"value": 5
+		},
+		{
+			"id": "22",
+			"name": "盖伦",
+			"cluster": "贵族",
+			"value": 5
+		},
+		{
+			"id": "23",
+			"name": "薇恩",
+			"cluster": "贵族",
+			"value": 5
+		},
+		{
+			"id": "24",
+			"name": "卢锡安",
+			"cluster": "贵族",
+			"value": 10
+		},
+		{
+			"id": "25",
+			"name": "日女",
+			"cluster": "贵族",
+			"value": 20
+		},
+		{
+			"id": "26",
+			"name": "天使",
+			"cluster": "贵族",
+			"value": 25
+		},
+		{
+			"id": "27",
+			"name": "慎",
+			"cluster": "忍者",
+			"value": 10
+		},
+		{
+			"id": "28",
+			"name": "劫",
+			"cluster": "忍者",
+			"value": 10
+		},
+		{
+			"id": "29",
+			"name": "凯南",
+			"cluster": "忍者",
+			"value": 15
+		},
+		{
+			"id": "30",
+			"name": "阿卡丽",
+			"cluster": "忍者",
+			"value": 20
+		},
+		{
+			"id": "31",
+			"name": "男枪",
+			"cluster": "海盗",
+			"value": 5
+		},
+		{
+			"id": "32",
+			"name": "派克",
+			"cluster": "海盗",
+			"value": 10
+		},
+		{
+			"id": "33",
+			"name": "卡牌",
+			"cluster": "海盗",
+			"value": 10
+		},
+		{
+			"id": "34",
+			"name": "船长",
+			"cluster": "海盗",
+			"value": 15
+		},
+		{
+			"id": "35",
+			"name": "好运姐",
+			"cluster": "海盗",
+			"value": 25
+		},
+		{
+			"id": "36",
+			"name": "铁男",
+			"cluster": "幽灵",
+			"value": 5
+		},
+		{
+			"id": "37",
+			"name": "千珏",
+			"cluster": "幽灵",
+			"value": 20
+		},
+		{
+			"id": "38",
+			"name": "死歌",
+			"cluster": "幽灵",
+			"value": 25
+		},
+		{
+			"id": "39",
+			"name": "狼人",
+			"cluster": "狂野",
+			"value": 5
+		},
+		{
+			"id": "40",
+			"name": "豹女",
+			"cluster": "狂野",
+			"value": 5
+		},
+		{
+			"id": "41",
+			"name": "狐狸",
+			"cluster": "狂野",
+			"value": 10
+		},
+		{
+			"id": "42",
+			"name": "狮子狗",
+			"cluster": "狂野",
+			"value": 15
+		},
+		{
+			"id": "43",
+			"name": "纳尔",
+			"cluster": "狂野",
+			"value": 20
+		},
+		{
+			"id": "44",
+			"name": "螳螂",
+			"cluster": "虚空",
+			"value": 5
+		},
+		{
+			"id": "45",
+			"name": "卡萨丁",
+			"cluster": "虚空",
+			"value": 5
+		},
+		{
+			"id": "46",
+			"name": "挖掘机",
+			"cluster": "虚空",
+			"value": 10
+		},
+		{
+			"id": "47",
+			"name": "大虫子",
+			"cluster": "虚空",
+			"value": 20
+		},
+		{
+			"id": "48",
+			"name": "卡萨",
+			"cluster": "虚空",
+			"value": 25
+		},
+		{
+			"id": "49",
+			"name": "小炮",
+			"cluster": "约德尔",
+			"value": 5
+		},
+		{
+			"id": "50",
+			"name": "露露",
+			"cluster": "约德尔",
+			"value": 10
+		},
+		{
+			"id": "51",
+			"name": "波比",
+			"cluster": "约德尔",
+			"value": 15
+		},
+		{
+			"id": "52",
+			"name": "小法",
+			"cluster": "约德尔",
+			"value": 15
+		},
+		{
+			"id": "53",
+			"name": "卡密尔",
+			"cluster": "海克斯",
+			"value": 5
+		},
+		{
+			"id": "54",
+			"name": "蔚",
+			"cluster": "海克斯",
+			"value": 15
+		},
+		{
+			"id": "55",
+			"name": "金克斯",
+			"cluster": "海克斯",
+			"value": 20
+		}
+	],
+	"edges": [
+		{
+			"source": "0",
+			"target": "1",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "0",
+			"target": "2",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "0",
+			"target": "3",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "0",
+			"target": "4",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "0",
+			"target": "5",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "0",
+			"target": "6",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "0",
+			"target": "10",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "0",
+			"target": "13",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "0",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "0",
+			"target": "23",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "0",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "0",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "0",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "0",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "0",
+			"target": "37",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "0",
+			"target": "48",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "1",
+			"target": "2",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "1",
+			"target": "3",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "1",
+			"target": "4",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "1",
+			"target": "5",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "1",
+			"target": "6",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "1",
+			"target": "7",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "1",
+			"target": "10",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "1",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "1",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "1",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "1",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "1",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "1",
+			"target": "40",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "1",
+			"target": "43",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "10",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "10",
+			"target": "20",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "10",
+			"target": "21",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "10",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "10",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "10",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "10",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "10",
+			"target": "34",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "10",
+			"target": "53",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "11",
+			"target": "12",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "11",
+			"target": "13",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "11",
+			"target": "14",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "11",
+			"target": "15",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "11",
+			"target": "16",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "11",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "11",
+			"target": "25",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "11",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "11",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "11",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "11",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "12",
+			"target": "13",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "12",
+			"target": "14",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "12",
+			"target": "15",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "12",
+			"target": "16",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "12",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "12",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "12",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "12",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "12",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "13",
+			"target": "14",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "13",
+			"target": "15",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "13",
+			"target": "16",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "13",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "13",
+			"target": "23",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "13",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "13",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "13",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "13",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "13",
+			"target": "37",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "13",
+			"target": "48",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "14",
+			"target": "15",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "14",
+			"target": "16",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "14",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "14",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "14",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "14",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "14",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "14",
+			"target": "39",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "14",
+			"target": "46",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "14",
+			"target": "47",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "14",
+			"target": "54",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "15",
+			"target": "16",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "15",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "15",
+			"target": "18",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "15",
+			"target": "22",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "15",
+			"target": "26",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "15",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "15",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "15",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "15",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "15",
+			"target": "36",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "15",
+			"target": "51",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "16",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "16",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "16",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "16",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "16",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "17",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "17",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "17",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "17",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "17",
+			"target": "39",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "17",
+			"target": "46",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "17",
+			"target": "47",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "17",
+			"target": "54",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "18",
+			"target": "19",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "18",
+			"target": "20",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "18",
+			"target": "22",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "18",
+			"target": "26",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "18",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "18",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "18",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "18",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "18",
+			"target": "36",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "18",
+			"target": "51",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "19",
+			"target": "20",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "19",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "19",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "19",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "19",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "19",
+			"target": "32",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "19",
+			"target": "42",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "19",
+			"target": "44",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "19",
+			"target": "48",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "3",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "4",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "5",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "6",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "8",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "10",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "33",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "38",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "41",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "45",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "50",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "2",
+			"target": "52",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "20",
+			"target": "21",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "20",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "20",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "20",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "20",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "20",
+			"target": "34",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "20",
+			"target": "53",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "21",
+			"target": "22",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "21",
+			"target": "23",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "21",
+			"target": "24",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "21",
+			"target": "25",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "21",
+			"target": "26",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "21",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "21",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "21",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "21",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "21",
+			"target": "34",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "21",
+			"target": "53",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "22",
+			"target": "23",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "22",
+			"target": "24",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "22",
+			"target": "25",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "22",
+			"target": "26",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "22",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "22",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "22",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "22",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "22",
+			"target": "36",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "22",
+			"target": "51",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "23",
+			"target": "24",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "23",
+			"target": "25",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "23",
+			"target": "26",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "23",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "23",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "23",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "23",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "23",
+			"target": "37",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "23",
+			"target": "48",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "24",
+			"target": "25",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "24",
+			"target": "26",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "24",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "24",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "24",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "24",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "24",
+			"target": "36",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "24",
+			"target": "51",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "25",
+			"target": "26",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "25",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "25",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "25",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "25",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "26",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "26",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "26",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "26",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "26",
+			"target": "36",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "26",
+			"target": "51",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "27",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "27",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "27",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "27",
+			"target": "34",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "27",
+			"target": "53",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "28",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "28",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "28",
+			"target": "32",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "28",
+			"target": "42",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "28",
+			"target": "44",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "28",
+			"target": "48",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "29",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "29",
+			"target": "43",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "29",
+			"target": "49",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "29",
+			"target": "50",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "29",
+			"target": "51",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "29",
+			"target": "52",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "3",
+			"target": "4",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "3",
+			"target": "5",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "3",
+			"target": "6",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "3",
+			"target": "10",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "3",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "3",
+			"target": "19",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "3",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "3",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "3",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "3",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "3",
+			"target": "32",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "3",
+			"target": "42",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "3",
+			"target": "44",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "3",
+			"target": "48",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "30",
+			"target": "32",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "30",
+			"target": "42",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "30",
+			"target": "44",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "30",
+			"target": "48",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "31",
+			"target": "32",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "31",
+			"target": "33",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "31",
+			"target": "34",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "31",
+			"target": "35",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "31",
+			"target": "36",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "31",
+			"target": "51",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "32",
+			"target": "33",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "32",
+			"target": "34",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "32",
+			"target": "35",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "32",
+			"target": "42",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "32",
+			"target": "44",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "32",
+			"target": "48",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "33",
+			"target": "34",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "33",
+			"target": "35",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "33",
+			"target": "38",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "33",
+			"target": "41",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "33",
+			"target": "45",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "33",
+			"target": "50",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "33",
+			"target": "52",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "34",
+			"target": "35",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "34",
+			"target": "36",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "34",
+			"target": "51",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "34",
+			"target": "53",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "35",
+			"target": "36",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "35",
+			"target": "51",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "36",
+			"target": "37",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "36",
+			"target": "38",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "36",
+			"target": "51",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "37",
+			"target": "38",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "37",
+			"target": "48",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "38",
+			"target": "41",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "38",
+			"target": "45",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "38",
+			"target": "50",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "38",
+			"target": "52",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "39",
+			"target": "40",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "39",
+			"target": "41",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "39",
+			"target": "42",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "39",
+			"target": "43",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "39",
+			"target": "46",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "39",
+			"target": "47",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "39",
+			"target": "54",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "4",
+			"target": "5",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "4",
+			"target": "6",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "4",
+			"target": "10",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "4",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "4",
+			"target": "20",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "4",
+			"target": "21",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "4",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "4",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "4",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "4",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "4",
+			"target": "34",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "4",
+			"target": "53",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "40",
+			"target": "41",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "40",
+			"target": "42",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "40",
+			"target": "43",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "41",
+			"target": "42",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "41",
+			"target": "43",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "41",
+			"target": "45",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "41",
+			"target": "50",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "41",
+			"target": "52",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "42",
+			"target": "43",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "42",
+			"target": "44",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "42",
+			"target": "48",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "43",
+			"target": "49",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "43",
+			"target": "50",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "43",
+			"target": "51",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "43",
+			"target": "52",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "44",
+			"target": "45",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "44",
+			"target": "46",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "44",
+			"target": "47",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "44",
+			"target": "48",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "45",
+			"target": "46",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "45",
+			"target": "47",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "45",
+			"target": "48",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "45",
+			"target": "50",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "45",
+			"target": "52",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "46",
+			"target": "47",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "46",
+			"target": "48",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "46",
+			"target": "54",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "47",
+			"target": "48",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "47",
+			"target": "54",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "49",
+			"target": "50",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "49",
+			"target": "51",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "49",
+			"target": "52",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "5",
+			"target": "6",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "5",
+			"target": "10",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "5",
+			"target": "12",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "5",
+			"target": "16",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "5",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "5",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "5",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "5",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "5",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "50",
+			"target": "51",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "50",
+			"target": "52",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "51",
+			"target": "52",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "53",
+			"target": "54",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "53",
+			"target": "55",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "54",
+			"target": "55",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "6",
+			"target": "7",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "6",
+			"target": "10",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "6",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "6",
+			"target": "18",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "6",
+			"target": "19",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "6",
+			"target": "20",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "6",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "6",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "6",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "6",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "6",
+			"target": "40",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "6",
+			"target": "43",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "7",
+			"target": "8",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "7",
+			"target": "9",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "7",
+			"target": "10",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "7",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "7",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "7",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "7",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "7",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "7",
+			"target": "40",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "7",
+			"target": "43",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "8",
+			"target": "9",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "8",
+			"target": "10",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "8",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "8",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "8",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "8",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "8",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "8",
+			"target": "33",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "8",
+			"target": "38",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "8",
+			"target": "41",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "8",
+			"target": "45",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "8",
+			"target": "50",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "8",
+			"target": "52",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "9",
+			"target": "10",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "9",
+			"target": "11",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "9",
+			"target": "17",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "9",
+			"target": "25",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "9",
+			"target": "27",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "9",
+			"target": "28",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "9",
+			"target": "29",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		},
+		{
+			"source": "9",
+			"target": "30",
+			"sourceWeight": 10,
+			"targetWeight": 0
+		}
+	]
+}

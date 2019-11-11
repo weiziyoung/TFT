@@ -101,7 +101,7 @@
 	},
 	{
 		"name": "Pantheon",
-		"avatar": "//game.gtimg.cn/images/lol/tft/cham-icons/80.png",
+		"avatar": "http://game.gtimg.cn/images/lol/tft/cham-icons/80.png",
 		"price": 5,
 		"origin": [
 			"dragon"
@@ -366,7 +366,7 @@
 	},
 	{
 		"name": "Twist Fate",
-		"avatar": "game.gtimg.cn/images/lol/tft/cham-icons/4.png",
+		"avatar": "http://game.gtimg.cn/images/lol/tft/cham-icons/4.png",
 		"price": 2,
 		"origin": [
 			"pirate"
@@ -533,7 +533,7 @@
 	},
 	{
 		"name": "Kaisa",
-		"avatar": "//game.gtimg.cn/images/lol/tft/cham-icons/145.png",
+		"avatar": "http://game.gtimg.cn/images/lol/tft/cham-icons/145.png",
 		"price": 5,
 		"origin": [
 			"void"
@@ -589,7 +589,7 @@
 	},
 	{
 		"name": "Camille",
-		"avatar": "game.gtimg.cn/images/lol/tft/cham-icons/164.png",
+		"avatar": "http://game.gtimg.cn/images/lol/tft/cham-icons/164.png",
 		"price": 1,
 		"origin": [
 			"Hextech"
@@ -600,7 +600,7 @@
 	},
 	{
 		"name": "VI",
-		"avatar": "game.gtimg.cn/images/lol/tft/cham-icons/254.png",
+		"avatar": "http://game.gtimg.cn/images/lol/tft/cham-icons/254.png",
 		"price": 3,
 		"origin": [
 			"Hextech"
@@ -611,7 +611,7 @@
 	},
 	{
 		"name": "Jinx",
-		"avatar": "game.gtimg.cn/images/lol/tft/cham-icons/222.png",
+		"avatar": "http://game.gtimg.cn/images/lol/tft/cham-icons/222.png",
 		"price": 4,
 		"origin": [
 			"Hextech"

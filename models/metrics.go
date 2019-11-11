@@ -9,8 +9,10 @@ type ComboMetric struct {
 	TraitDetail map[string]int `json:"trait_detail"`
 	// 总英雄收益羁绊数量 = sigma{羁绊} 羁绊范围 * 羁绊等级
 	TotalTraitNum int `json:"total_trait_num"`
-	// 当前阵容羁绊强度 = sigma{羁绊} 羁绊范围 * 羁绊等级 * 羁绊强度
-	TotalStrength float32 `json:"total_strength"`
+	// 当前阵容羁绊强度 = sigma{羁绊} 羁绊范围 *  羁绊强度
+	TotalTraitStrength float32 `json:"total_trait_strength"`
+	// 当前阵容强度 = sigma{英雄} 英雄强度 * 羁绊强度
+	TotalStrength float64 `json:"total_strength"`
 }
 
 // 定义一个最大堆,注意golang标准库只有最小堆的实现，所以要重载一下Less方法
@@ -21,7 +23,7 @@ func (h ComboMetricHeap) Len() int {
 }
 
 func (h ComboMetricHeap) Less(i,j int) bool {
-	return h[i].TotalStrength > h[j].TotalStrength
+	return h[i].TotalStrength < h[j].TotalStrength
 }
 
 func (h ComboMetricHeap) Swap(i, j int) {
