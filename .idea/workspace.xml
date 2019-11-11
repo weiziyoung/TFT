@@ -2,29 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efe0865a-8d0d-4c0f-bcf6-a6e22a71bdcf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/check/checkResult.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/app.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_scripts/download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_scripts/graph_visualisation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_scripts/translate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search/search.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search/traverse.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/extend.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/math.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/translate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualisation/champion_graph.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_scripts/deduplicate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb6.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions_comb6.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb7.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions_comb7.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/champions_comb8.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions_comb8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb9.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions_comb9.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/traits.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/traits.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/evaluate/evaluation.go" beforeDir="false" afterPath="$PROJECT_DIR$/evaluate/evaluation.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/globals/global.go" beforeDir="false" afterPath="$PROJECT_DIR$/globals/global.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/metrics.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/metrics.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/graph.go" beforeDir="false" afterPath="$PROJECT_DIR$/search/graph.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Python Script" />
         <option value="Go File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -78,16 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go">
-    <configuration name="go build graph.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="TFT" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/search/graph.go" />
-      <package value="TFT" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.deduplicate">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="TFT" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -95,6 +69,27 @@
       <filePath value="$PROJECT_DIR$/main.go" />
       <package value="TFT" />
       <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deduplicate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_scripts/deduplicate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="download" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -162,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.deduplicate" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Python.download" />
         <item itemvalue="Python.graph_visualisation" />
         <item itemvalue="Python.translate" />
-        <item itemvalue="Go Build.go build graph.go" />
       </list>
     </recent_temporary>
   </component>

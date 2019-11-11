@@ -40,5 +40,5 @@ func start(teamSize int){
 }
 
 func main() {
-	start(9)
+	start(8)
 }
