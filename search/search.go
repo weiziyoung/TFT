@@ -5,7 +5,6 @@ import (
 	"container/heap"
 )
 
-var startPoint int
 var lim int
 var Result = make(models.ComboMetricHeap, 0, 1024)
 
@@ -25,9 +24,13 @@ func TraitBasedGraphSearch(championList models.ChampionList, teamSize int) model
 	lim = teamSize
 
 	heap.Init(&Result)
-	startPoint = len(championList)
-	graph[startPoint] = getSlice(0, len(championList)-teamSize+1)
-	Traverse(championList, graph, startPoint, make([]int, 0, teamSize))
+	// startPoint = len(championList)
+	// graph[startPoint] = getSlice(0, len(championList)-teamSize+1)
+	startPoints := getSlice(0, len(championList)-teamSize + 1)
+	for _,startNode := range startPoints{
+		Traverse(championList, graph, startNode, make([]int, 0, teamSize), make([]int, 0, 57))
+	}
+
 
 	return Result
 }

@@ -16,5 +16,5 @@ if __name__ == "__main__":
                 with open(filename, 'wb') as fp:
                     fp.write(response.content)
             image = cv2.imread(filename)
-            image = cv2.resize(image, (25, 25))
-            cv2.imwrite('avatar/'+str(n)+each['name']+'.png', image)
+            image = cv2.resize(image, (60, 60))
+            cv2.imwrite('avatar/'+str(n).zfill(2)+each['name']+'.png', image)

@@ -15,7 +15,7 @@ type ComboMetric struct {
 	TotalStrength float64 `json:"total_strength"`
 }
 
-// 定义一个最大堆,注意golang标准库只有最小堆的实现，所以要重载一下Less方法
+// 定义一个最小堆，保留前K个羁绊
 type ComboMetricHeap []ComboMetric
 
 func (h ComboMetricHeap) Len() int {

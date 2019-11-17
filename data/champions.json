@@ -599,6 +599,17 @@
 		]
 	},
 	{
+		"name": "Jayce",
+		"avatar": "http://game.gtimg.cn/images/lol/tft/cham-icons/126.png",
+		"price": 2,
+		"origin": [
+			"Hextech"
+		],
+		"class": [
+			"shapeshifter"
+		]
+	},
+	{
 		"name": "VI",
 		"avatar": "http://game.gtimg.cn/images/lol/tft/cham-icons/254.png",
 		"price": 3,
