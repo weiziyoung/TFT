@@ -1,0 +1,3786 @@
+[
+    {
+        "combo": [
+            "丽桑卓",
+            "冰鸟",
+            "凯南"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 6,
+        "total_strength": 13.97265582345426
+    },
+    {
+        "combo": [
+            "火男",
+            "丽桑卓",
+            "冰鸟"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.6,
+        "total_strength": 13.503905897960067
+    },
+    {
+        "combo": [
+            "火男",
+            "冰鸟",
+            "凯南"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "元素师": 3,
+            "忍者": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.4,
+        "total_strength": 13.164062425494194
+    },
+    {
+        "combo": [
+            "千珏",
+            "死歌",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "幽灵": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.5,
+        "total_strength": 12.8173828125
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "亚索"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "浪人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5.2,
+        "total_strength": 11.816406098660082
+    },
+    {
+        "combo": [
+            "艾希",
+            "千珏",
+            "死歌"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "幽灵": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.5,
+        "total_strength": 11.71875
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "日女"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "护卫": 2,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5.1,
+        "total_strength": 11.621093493886292
+    },
+    {
+        "combo": [
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 7.2,
+        "total_strength": 11.536874853204935
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "亚索",
+            "德莱文"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.3000002,
+        "total_strength": 11.37695339275524
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "千珏",
+            "死歌"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "幽灵": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.5,
+        "total_strength": 11.328125
+    },
+    {
+        "combo": [
+            "盖伦",
+            "日女",
+            "天使"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "贵族": 3,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.25,
+        "total_strength": 11.16667916017585
+    },
+    {
+        "combo": [
+            "龙女",
+            "潘森",
+            "亚索"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "浪人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5.2,
+        "total_strength": 11.113281117286533
+    },
+    {
+        "combo": [
+            "薇恩",
+            "千珏",
+            "死歌"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "幽灵": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.5,
+        "total_strength": 11.015625
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "布隆"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "护卫": 2,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5.1,
+        "total_strength": 10.917968493886292
+    },
+    {
+        "combo": [
+            "铁男",
+            "千珏",
+            "死歌"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "幽灵": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 2,
+        "total_strength": 10.7890625
+    },
+    {
+        "combo": [
+            "火男",
+            "丽桑卓",
+            "凯南"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "元素师": 3,
+            "忍者": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.4,
+        "total_strength": 10.781249925494194
+    },
+    {
+        "combo": [
+            "天使",
+            "铁男",
+            "死歌"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "幽灵": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.45,
+        "total_strength": 10.722851340193301
+    },
+    {
+        "combo": [
+            "龙女",
+            "龙王",
+            "潘森"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5.3999996,
+        "total_strength": 10.722655965946615
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "亚索",
+            "卡特"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.3000002,
+        "total_strength": 10.712890874128789
+    },
+    {
+        "combo": [
+            "火男",
+            "乌鸦",
+            "德莱文"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 10.644531773868954
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5,
+        "total_strength": 10.644530993886292
+    },
+    {
+        "combo": [
+            "龙女",
+            "潘森",
+            "日女"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "护卫": 2,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5.1,
+        "total_strength": 10.56640602182597
+    },
+    {
+        "combo": [
+            "千珏",
+            "死歌",
+            "小法"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "幽灵": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 2,
+        "total_strength": 10.3515625
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "死歌"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "龙": 2
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.6,
+        "total_strength": 10.35156229045242
+    },
+    {
+        "combo": [
+            "亚索",
+            "船长",
+            "好运姐"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "枪手": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.5,
+        "total_strength": 10.283202823484313
+    },
+    {
+        "combo": [
+            "潘森",
+            "亚索",
+            "日女"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "护卫": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.1,
+        "total_strength": 10.253906337311491
+    },
+    {
+        "combo": [
+            "龙女",
+            "龙王",
+            "亚索"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "浪人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5.2,
+        "total_strength": 10.234374890569597
+    },
+    {
+        "combo": [
+            "机器人",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.7000003,
+        "total_strength": 10.206250435952102
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "德莱文",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.1,
+        "total_strength": 10.20507828798145
+    },
+    {
+        "combo": [
+            "寡妇",
+            "乌鸦",
+            "德莱文"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 10.175781755242502
+    },
+    {
+        "combo": [
+            "莫甘娜",
+            "乌鸦",
+            "德莱文"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 10.175781755242502
+    },
+    {
+        "combo": [
+            "剑魔",
+            "乌鸦",
+            "德莱文"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 10.175781755242502
+    },
+    {
+        "combo": [
+            "猪妹",
+            "铁男",
+            "死歌"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "幽灵": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.45,
+        "total_strength": 10.161327914334834
+    },
+    {
+        "combo": [
+            "卢锡安",
+            "日女",
+            "天使"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "贵族": 3
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.8,
+        "total_strength": 10.160155980847776
+    },
+    {
+        "combo": [
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 7.2,
+        "total_strength": 10.158749900143592
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "卡特",
+            "德莱文"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "帝国": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.7,
+        "total_strength": 10.126953409053385
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "凯南"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5,
+        "total_strength": 10.097656003199518
+    },
+    {
+        "combo": [
+            "挖掘机",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "斗士": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 10.056250394228849
+    },
+    {
+        "combo": [
+            "千珏",
+            "死歌",
+            "狐狸"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "幽灵": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 2,
+        "total_strength": 10.0390625
+    },
+    {
+        "combo": [
+            "千珏",
+            "死歌",
+            "露露"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "幽灵": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 2,
+        "total_strength": 10.0390625
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "机器人"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "机器人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5.3,
+        "total_strength": 10.035156100057065
+    },
+    {
+        "combo": [
+            "火男",
+            "乌鸦",
+            "卡特"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 9.980469255242502
+    },
+    {
+        "combo": [
+            "龙女",
+            "潘森",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5,
+        "total_strength": 9.941406012512743
+    },
+    {
+        "combo": [
+            "铁男",
+            "千珏",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "幽灵": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.5,
+        "total_strength": 9.9345703125
+    },
+    {
+        "combo": [
+            "寡妇",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "刺客": 3,
+            "虚空": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.7999997,
+        "total_strength": 9.896249946337191
+    },
+    {
+        "combo": [
+            "卡特",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "刺客": 3,
+            "虚空": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.7999997,
+        "total_strength": 9.896249946337191
+    },
+    {
+        "combo": [
+            "狮子狗",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "刺客": 3,
+            "虚空": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.7999997,
+        "total_strength": 9.896249946337191
+    },
+    {
+        "combo": [
+            "亚索",
+            "德莱文",
+            "慎"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 6.8999996,
+        "total_strength": 9.892187174083663
+    },
+    {
+        "combo": [
+            "龙女",
+            "潘森",
+            "布隆"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "护卫": 2,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5.1,
+        "total_strength": 9.86328102182597
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "德莱文"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 9.80078174034134
+    },
+    {
+        "combo": [
+            "千珏",
+            "死歌",
+            "卡萨丁"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "幽灵": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 2,
+        "total_strength": 9.7890625
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "亚索",
+            "诺手"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.3000002,
+        "total_strength": 9.756640847306699
+    },
+    {
+        "combo": [
+            "盖伦",
+            "卢锡安",
+            "天使"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "贵族": 3,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.25,
+        "total_strength": 9.711210478907457
+    },
+    {
+        "combo": [
+            "剑姬",
+            "日女",
+            "天使"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "贵族": 3
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.8,
+        "total_strength": 9.710155992768705
+    },
+    {
+        "combo": [
+            "薇恩",
+            "日女",
+            "天使"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "贵族": 3
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.8,
+        "total_strength": 9.710155992768705
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "慎"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5,
+        "total_strength": 9.660156010650098
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "劫"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5,
+        "total_strength": 9.660156010650098
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "德莱文",
+            "凯南"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.1,
+        "total_strength": 9.658203297294676
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "龙女",
+            "潘森"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "龙": 2
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.6,
+        "total_strength": 9.648437309078872
+    },
+    {
+        "combo": [
+            "亚索",
+            "德莱文",
+            "船长"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "剑士": 3,
+            "浪人": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.5,
+        "total_strength": 9.648437221767377
+    },
+    {
+        "combo": [
+            "剑魔",
+            "亚索",
+            "德莱文"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "剑士": 3,
+            "浪人": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.5,
+        "total_strength": 9.648437221767377
+    },
+    {
+        "combo": [
+            "天使",
+            "铁男",
+            "千珏"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "幽灵": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.45,
+        "total_strength": 9.599804488476366
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "机器人",
+            "德莱文"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "机器人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.4,
+        "total_strength": 9.595703394152224
+    },
+    {
+        "combo": [
+            "潘森",
+            "亚索",
+            "布隆"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "护卫": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.1,
+        "total_strength": 9.550781337311491
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "卡特",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.1,
+        "total_strength": 9.541015769354999
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "诺手",
+            "天使"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.1499996,
+        "total_strength": 9.535566397272046
+    },
+    {
+        "combo": [
+            "大虫子",
+            "卡萨",
+            "蔚"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "斗士": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 9.531250337604435
+    },
+    {
+        "combo": [
+            "狗熊",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "斗士": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 9.531250337604435
+    },
+    {
+        "combo": [
+            "莫甘娜",
+            "乌鸦",
+            "卡特"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 9.51171923661605
+    },
+    {
+        "combo": [
+            "剑魔",
+            "乌鸦",
+            "卡特"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 9.51171923661605
+    },
+    {
+        "combo": [
+            "寡妇",
+            "乌鸦",
+            "卡特"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 9.51171923661605
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "乌鸦",
+            "德莱文"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 9.500781728420412
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "小法"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "龙": 2
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.6,
+        "total_strength": 9.47265604045242
+    },
+    {
+        "combo": [
+            "莫甘娜",
+            "龙王",
+            "潘森"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "龙": 2
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.6,
+        "total_strength": 9.47265604045242
+    },
+    {
+        "combo": [
+            "派克",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "刺客": 3,
+            "虚空": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.7999997,
+        "total_strength": 9.458749953787772
+    },
+    {
+        "combo": [
+            "卡特",
+            "阿卡丽",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.6,
+        "total_strength": 9.433593524154276
+    },
+    {
+        "combo": [
+            "阿卡丽",
+            "狮子狗",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.6,
+        "total_strength": 9.433593524154276
+    },
+    {
+        "combo": [
+            "寡妇",
+            "阿卡丽",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.6,
+        "total_strength": 9.433593524154276
+    },
+    {
+        "combo": [
+            "龙女",
+            "潘森",
+            "凯南"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5,
+        "total_strength": 9.39453102182597
+    },
+    {
+        "combo": [
+            "亚索",
+            "慎",
+            "船长"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 6.9,
+        "total_strength": 9.384374692710114
+    },
+    {
+        "combo": [
+            "剑魔",
+            "亚索",
+            "慎"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 6.9,
+        "total_strength": 9.384374692710114
+    },
+    {
+        "combo": [
+            "猪妹",
+            "冰鸟",
+            "天使"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "冰川": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 6.0499997,
+        "total_strength": 9.377440970856702
+    },
+    {
+        "combo": [
+            "龙女",
+            "潘森",
+            "机器人"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "机器人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5.3,
+        "total_strength": 9.332031118683517
+    },
+    {
+        "combo": [
+            "好运姐",
+            "铁男",
+            "死歌"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "幽灵": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 2,
+        "total_strength": 9.32421875
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "卡特",
+            "卡萨"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "帝国": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.7,
+        "total_strength": 9.248047065921128
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "德莱文",
+            "慎"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.1,
+        "total_strength": 9.220703304745257
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "德莱文",
+            "劫"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.1,
+        "total_strength": 9.220703304745257
+    },
+    {
+        "combo": [
+            "剑姬",
+            "盖伦",
+            "天使"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "贵族": 3,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.25,
+        "total_strength": 9.193710503345361
+    },
+    {
+        "combo": [
+            "盖伦",
+            "薇恩",
+            "天使"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "贵族": 3,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.25,
+        "total_strength": 9.193710503345361
+    },
+    {
+        "combo": [
+            "火男",
+            "乌鸦",
+            "亚索"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "恶魔": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 9.17968776775524
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "诺手",
+            "德莱文"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "帝国": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.7,
+        "total_strength": 9.170703382231295
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "露露"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "龙": 2
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.6,
+        "total_strength": 9.16015604045242
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "狐狸"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "龙": 2
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.6,
+        "total_strength": 9.16015604045242
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "卡牌"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "龙": 2
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.6,
+        "total_strength": 9.16015604045242
+    },
+    {
+        "combo": [
+            "剑魔",
+            "亚索",
+            "船长"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "剑士": 3,
+            "浪人": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.5,
+        "total_strength": 9.140624740393829
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "卡特"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 9.13671922171489
+    },
+    {
+        "combo": [
+            "潘森",
+            "亚索",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 9.082031261641532
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "亚索",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 9.082031261641532
+    },
+    {
+        "combo": [
+            "亚索",
+            "阿卡丽",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 9.082031261641532
+    },
+    {
+        "combo": [
+            "盖伦",
+            "铁男",
+            "死歌"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "幽灵": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.45,
+        "total_strength": 9.065234187059104
+    },
+    {
+        "combo": [
+            "诺手",
+            "铁男",
+            "死歌"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "幽灵": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.45,
+        "total_strength": 9.065234187059104
+    },
+    {
+        "combo": [
+            "龙女",
+            "龙王",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5,
+        "total_strength": 9.062499785795808
+    },
+    {
+        "combo": [
+            "猪妹",
+            "铁男",
+            "千珏"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "幽灵": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.45,
+        "total_strength": 9.038281062617898
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "龙女",
+            "德莱文"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "帝国": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.7,
+        "total_strength": 9.03320333454758
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "德莱文",
+            "船长"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "帝国": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.7,
+        "total_strength": 9.03320333454758
+    },
+    {
+        "combo": [
+            "火男",
+            "乌鸦",
+            "诺手"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 9.024219228420412
+    },
+    {
+        "combo": [
+            "阿卡丽",
+            "派克",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.6,
+        "total_strength": 8.996093531604856
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "卡特",
+            "凯南"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.1,
+        "total_strength": 8.994140778668225
+    },
+    {
+        "combo": [
+            "龙女",
+            "潘森",
+            "慎"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5,
+        "total_strength": 8.95703102927655
+    },
+    {
+        "combo": [
+            "龙女",
+            "潘森",
+            "劫"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5,
+        "total_strength": 8.95703102927655
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "机器人",
+            "卡特"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "机器人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.4,
+        "total_strength": 8.931640875525773
+    },
+    {
+        "combo": [
+            "亚索",
+            "德莱文",
+            "剑姬"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "剑士": 3,
+            "浪人": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.5,
+        "total_strength": 8.917187248589467
+    },
+    {
+        "combo": [
+            "亚索",
+            "德莱文",
+            "卡密尔"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "剑士": 3,
+            "浪人": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.5,
+        "total_strength": 8.917187248589467
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "卡萨丁"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "龙": 2
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.6,
+        "total_strength": 8.91015604045242
+    },
+    {
+        "combo": [
+            "机器人",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.7000003,
+        "total_strength": 8.856250362191354
+    },
+    {
+        "combo": [
+            "狼人",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "斗士": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 8.856250310782345
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "乌鸦",
+            "卡特"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 8.83671920979396
+    },
+    {
+        "combo": [
+            "潘森",
+            "布隆",
+            "冰鸟"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "冰川": 2,
+            "护卫": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1,
+        "total_strength": 8.827148203272372
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "大虫子"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.7000003,
+        "total_strength": 8.800000324193391
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "龙女",
+            "龙王"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "龙": 2
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.6,
+        "total_strength": 8.769531082361937
+    },
+    {
+        "combo": [
+            "龙女",
+            "龙王",
+            "死歌"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "龙": 2
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.6,
+        "total_strength": 8.769531082361937
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "阿卡丽"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "忍者": 1,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.7,
+        "total_strength": 8.765625071246177
+    },
+    {
+        "combo": [
+            "剑魔",
+            "乌鸦",
+            "亚索"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "恶魔": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 8.710937749128789
+    },
+    {
+        "combo": [
+            "莫甘娜",
+            "乌鸦",
+            "亚索"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "恶魔": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 8.710937749128789
+    },
+    {
+        "combo": [
+            "寡妇",
+            "乌鸦",
+            "亚索"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "恶魔": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 8.710937749128789
+    },
+    {
+        "combo": [
+            "卡特",
+            "德莱文",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.1,
+        "total_strength": 8.710937621071935
+    },
+    {
+        "combo": [
+            "机器人",
+            "挖掘机",
+            "大虫子"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 6.9,
+        "total_strength": 8.70000050887466
+    },
+    {
+        "combo": [
+            "亚索",
+            "慎",
+            "卡密尔"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 6.9,
+        "total_strength": 8.653124719532205
+    },
+    {
+        "combo": [
+            "亚索",
+            "剑姬",
+            "慎"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 6.9,
+        "total_strength": 8.653124719532205
+    },
+    {
+        "combo": [
+            "螳螂",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "虚空": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.6,
+        "total_strength": 8.631250128615648
+    },
+    {
+        "combo": [
+            "卡萨丁",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "虚空": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.6,
+        "total_strength": 8.631250128615648
+    },
+    {
+        "combo": [
+            "火男",
+            "亚索",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.593750011641532
+    },
+    {
+        "combo": [
+            "龙王",
+            "亚索",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.593750011641532
+    },
+    {
+        "combo": [
+            "亚索",
+            "德莱文",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.593750011641532
+    },
+    {
+        "combo": [
+            "铁男",
+            "千珏",
+            "波比"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "幽灵": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.45,
+        "total_strength": 8.589062321931124
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "诺手",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.1,
+        "total_strength": 8.584765742532909
+    },
+    {
+        "combo": [
+            "诺手",
+            "德莱文",
+            "天使"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.1499996,
+        "total_strength": 8.580976546537128
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "卡特",
+            "劫"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.1,
+        "total_strength": 8.556640786118805
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "卡特",
+            "慎"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.1,
+        "total_strength": 8.556640786118805
+    },
+    {
+        "combo": [
+            "剑魔",
+            "乌鸦",
+            "诺手"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 8.55546920979396
+    },
+    {
+        "combo": [
+            "莫甘娜",
+            "乌鸦",
+            "诺手"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 8.55546920979396
+    },
+    {
+        "combo": [
+            "寡妇",
+            "乌鸦",
+            "诺手"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 8.55546920979396
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "亚索",
+            "凯南"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.535156270954758
+    },
+    {
+        "combo": [
+            "潘森",
+            "亚索",
+            "凯南"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.535156270954758
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "诺手",
+            "波比"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.1499996,
+        "total_strength": 8.524824230726804
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "乌鸦",
+            "纳尔"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "变形者": 3,
+            "恶魔": 2
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 6.6,
+        "total_strength": 8.515937584713097
+    },
+    {
+        "combo": [
+            "龙女",
+            "龙王",
+            "凯南"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5,
+        "total_strength": 8.515624795109034
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "诺手",
+            "卡特"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "帝国": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.7,
+        "total_strength": 8.506640863604844
+    },
+    {
+        "combo": [
+            "潘森",
+            "日女",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "护卫": 2
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 2.9,
+        "total_strength": 8.496093680150807
+    },
+    {
+        "combo": [
+            "潘森",
+            "亚索",
+            "机器人"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.3000002,
+        "total_strength": 8.472656367812306
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "亚索",
+            "机器人"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.3000002,
+        "total_strength": 8.472656367812306
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "德莱文",
+            "剑姬"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "帝国": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.7,
+        "total_strength": 8.47070333454758
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "德莱文",
+            "卡密尔"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "帝国": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.7,
+        "total_strength": 8.47070333454758
+    },
+    {
+        "combo": [
+            "龙女",
+            "龙王",
+            "机器人"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "机器人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5.3,
+        "total_strength": 8.453124891966581
+    },
+    {
+        "combo": [
+            "猪妹",
+            "冰鸟",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 8.447265368886292
+    },
+    {
+        "combo": [
+            "船长",
+            "铁男",
+            "死歌"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "幽灵": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 2,
+        "total_strength": 8.4453125
+    },
+    {
+        "combo": [
+            "铁男",
+            "死歌",
+            "小法"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "幽灵": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 2,
+        "total_strength": 8.4453125
+    },
+    {
+        "combo": [
+            "薇恩",
+            "卢锡安",
+            "天使"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "贵族": 3
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.8,
+        "total_strength": 8.444531026296318
+    },
+    {
+        "combo": [
+            "剑姬",
+            "卢锡安",
+            "天使"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "贵族": 3
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.8,
+        "total_strength": 8.444531026296318
+    },
+    {
+        "combo": [
+            "卡特",
+            "德莱文",
+            "卡萨"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "帝国": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.7,
+        "total_strength": 8.417968917638063
+    },
+    {
+        "combo": [
+            "剑魔",
+            "亚索",
+            "卡密尔"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "剑士": 3,
+            "浪人": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.5,
+        "total_strength": 8.409374767215919
+    },
+    {
+        "combo": [
+            "剑魔",
+            "亚索",
+            "剑姬"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "剑士": 3,
+            "浪人": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.5,
+        "total_strength": 8.409374767215919
+    },
+    {
+        "combo": [
+            "亚索",
+            "船长",
+            "卡密尔"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "剑士": 3,
+            "浪人": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.5,
+        "total_strength": 8.409374767215919
+    },
+    {
+        "combo": [
+            "亚索",
+            "剑姬",
+            "船长"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "剑士": 3,
+            "浪人": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.5,
+        "total_strength": 8.409374767215919
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "豹女",
+            "纳尔"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "变形者": 3,
+            "狂野": 2
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 6.6,
+        "total_strength": 8.379218804445115
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "卡特",
+            "狮子狗"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "帝国": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.7,
+        "total_strength": 8.369140815921128
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "龙女",
+            "卡特"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "帝国": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.7,
+        "total_strength": 8.369140815921128
+    },
+    {
+        "combo": [
+            "猪妹",
+            "冰鸟",
+            "波比"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "冰川": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 6.0499997,
+        "total_strength": 8.36669880431146
+    },
+    {
+        "combo": [
+            "好运姐",
+            "铁男",
+            "千珏"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "幽灵": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 2,
+        "total_strength": 8.34765625
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "龙女",
+            "纳尔"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "变形者": 3
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.2,
+        "total_strength": 8.339843607973307
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "亚索"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "恶魔": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 8.335937734227628
+    },
+    {
+        "combo": [
+            "亚索",
+            "卡密尔",
+            "金克斯"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.1,
+        "total_strength": 8.335937558207661
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "蔚"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.7,
+        "total_strength": 8.33125030556694
+    },
+    {
+        "combo": [
+            "火男",
+            "亚索",
+            "冰鸟"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "浪人": 1
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.6,
+        "total_strength": 8.300781308207661
+    },
+    {
+        "combo": [
+            "潘森",
+            "亚索",
+            "德莱文"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "浪人": 1
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.6,
+        "total_strength": 8.300781308207661
+    },
+    {
+        "combo": [
+            "机器人",
+            "蔚",
+            "金克斯"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "斗士": 2,
+            "机器人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.6000004,
+        "total_strength": 8.292187784612182
+    },
+    {
+        "combo": [
+            "龙女",
+            "龙王",
+            "纳尔"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "龙": 2
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.6,
+        "total_strength": 8.281249832361937
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "忍者": 1,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.7,
+        "total_strength": 8.218750080559403
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "龙女",
+            "潘森"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "龙": 2
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.6,
+        "total_strength": 8.207031059078872
+    },
+    {
+        "combo": [
+            "亚索",
+            "阿卡丽",
+            "狮子狗"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.203125011641532
+    },
+    {
+        "combo": [
+            "剑魔",
+            "亚索",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.203125011641532
+    },
+    {
+        "combo": [
+            "龙女",
+            "亚索",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.203125011641532
+    },
+    {
+        "combo": [
+            "寡妇",
+            "亚索",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.203125011641532
+    },
+    {
+        "combo": [
+            "莫甘娜",
+            "亚索",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.203125011641532
+    },
+    {
+        "combo": [
+            "寡妇",
+            "卡特",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.6,
+        "total_strength": 8.203124795109034
+    },
+    {
+        "combo": [
+            "寡妇",
+            "阿卡丽",
+            "狮子狗"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.6,
+        "total_strength": 8.203124795109034
+    },
+    {
+        "combo": [
+            "卡特",
+            "阿卡丽",
+            "狮子狗"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.6,
+        "total_strength": 8.203124795109034
+    },
+    {
+        "combo": [
+            "猪妹",
+            "天使",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 4.85,
+        "total_strength": 8.198241963982582
+    },
+    {
+        "combo": [
+            "狗熊",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "斗士": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 8.181250263843687
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "诺手"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 8.1804691948928
+    },
+    {
+        "combo": [
+            "卡特",
+            "德莱文",
+            "凯南"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.1,
+        "total_strength": 8.16406263038516
+    },
+    {
+        "combo": [
+            "狗熊",
+            "冰鸟",
+            "机器人"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "冰川": 2,
+            "斗士": 2,
+            "机器人": 1
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 6.7,
+        "total_strength": 8.161328188888728
+    },
+    {
+        "combo": [
+            "铁男",
+            "死歌",
+            "露露"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "幽灵": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 2,
+        "total_strength": 8.1328125
+    },
+    {
+        "combo": [
+            "铁男",
+            "死歌",
+            "狐狸"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "幽灵": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 2,
+        "total_strength": 8.1328125
+    },
+    {
+        "combo": [
+            "卢锡安",
+            "铁男",
+            "死歌"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "幽灵": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 2,
+        "total_strength": 8.1328125
+    },
+    {
+        "combo": [
+            "莫甘娜",
+            "火男",
+            "亚索"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "恶魔": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 8.125000225845724
+    },
+    {
+        "combo": [
+            "寡妇",
+            "火男",
+            "亚索"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "恶魔": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 8.125000225845724
+    },
+    {
+        "combo": [
+            "剑魔",
+            "火男",
+            "亚索"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "恶魔": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 8.125000225845724
+    },
+    {
+        "combo": [
+            "潘森",
+            "亚索",
+            "慎"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.097656278405339
+    },
+    {
+        "combo": [
+            "亚索",
+            "劫",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.097656278405339
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "亚索",
+            "劫"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.097656278405339
+    },
+    {
+        "combo": [
+            "潘森",
+            "亚索",
+            "劫"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.097656278405339
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "亚索",
+            "慎"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.097656278405339
+    },
+    {
+        "combo": [
+            "大虫子",
+            "蔚",
+            "金克斯"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "斗士": 2,
+            "海克斯": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 3.9,
+        "total_strength": 8.085937704890966
+    },
+    {
+        "combo": [
+            "龙女",
+            "龙王",
+            "劫"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5,
+        "total_strength": 8.078124802559614
+    },
+    {
+        "combo": [
+            "龙女",
+            "龙王",
+            "慎"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "龙": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 5,
+        "total_strength": 8.078124802559614
+    },
+    {
+        "combo": [
+            "艾希",
+            "猪妹",
+            "天使"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "冰川": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 6.0499997,
+        "total_strength": 8.063476202543828
+    },
+    {
+        "combo": [
+            "狗熊",
+            "猪妹",
+            "天使"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "冰川": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 6.0499997,
+        "total_strength": 8.063476202543828
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "卡特",
+            "派克"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "帝国": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.7,
+        "total_strength": 8.056640815921128
+    },
+    {
+        "combo": [
+            "潘森",
+            "日女",
+            "天使"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "护卫": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.5,
+        "total_strength": 8.056640625
+    },
+    {
+        "combo": [
+            "寡妇",
+            "劫",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.6,
+        "total_strength": 8.055468571092934
+    },
+    {
+        "combo": [
+            "劫",
+            "狮子狗",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.6,
+        "total_strength": 8.055468571092934
+    },
+    {
+        "combo": [
+            "卡特",
+            "劫",
+            "卡萨"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.6,
+        "total_strength": 8.055468571092934
+    },
+    {
+        "combo": [
+            "亚索",
+            "凯南",
+            "纳尔"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.046875020954758
+    },
+    {
+        "combo": [
+            "火男",
+            "亚索",
+            "凯南"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.046875020954758
+    },
+    {
+        "combo": [
+            "亚索",
+            "德莱文",
+            "凯南"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.046875020954758
+    },
+    {
+        "combo": [
+            "龙王",
+            "亚索",
+            "凯南"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 8.046875020954758
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "诺手",
+            "凯南"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.1,
+        "total_strength": 8.037890751846135
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "乌鸦",
+            "亚索"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "恶魔": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 8.035937722306699
+    },
+    {
+        "combo": [
+            "狗熊",
+            "挖掘机",
+            "大虫子"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "斗士": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.2000003,
+        "total_strength": 8.025000410526994
+    },
+    {
+        "combo": [
+            "挖掘机",
+            "大虫子",
+            "蔚"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "斗士": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.2000003,
+        "total_strength": 8.025000410526994
+    },
+    {
+        "combo": [
+            "猪妹",
+            "诺手",
+            "德莱文"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.1499996,
+        "total_strength": 8.01945312067866
+    },
+    {
+        "combo": [
+            "火男",
+            "乌鸦",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 3.8000002,
+        "total_strength": 8.00781266298145
+    },
+    {
+        "combo": [
+            "剑姬",
+            "薇恩",
+            "天使"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "贵族": 3
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.8,
+        "total_strength": 7.9945310382172465
+    },
+    {
+        "combo": [
+            "火男",
+            "亚索",
+            "机器人"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.3000002,
+        "total_strength": 7.984375117812306
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "德莱文"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.3000002,
+        "total_strength": 7.984375117812306
+    },
+    {
+        "combo": [
+            "龙王",
+            "亚索",
+            "机器人"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.3000002,
+        "total_strength": 7.984375117812306
+    },
+    {
+        "combo": [
+            "凯南",
+            "纳尔",
+            "小法"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "约德尔": 3
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.6,
+        "total_strength": 7.984374811872841
+    },
+    {
+        "combo": [
+            "凯南",
+            "纳尔",
+            "波比"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "约德尔": 3
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.6,
+        "total_strength": 7.984374811872841
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "机器人",
+            "诺手"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "机器人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.4,
+        "total_strength": 7.975390848703682
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "乌鸦",
+            "龙女"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "变形者": 3,
+            "恶魔": 2
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 6.6,
+        "total_strength": 7.969062594026323
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "挖掘机"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.7000003,
+        "total_strength": 7.956250290665778
+    },
+    {
+        "combo": [
+            "死歌",
+            "卡萨丁",
+            "卡萨"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "虚空": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.6,
+        "total_strength": 7.947656332049519
+    },
+    {
+        "combo": [
+            "诺手",
+            "铁男",
+            "千珏"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "幽灵": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.45,
+        "total_strength": 7.942187335342169
+    },
+    {
+        "combo": [
+            "盖伦",
+            "铁男",
+            "千珏"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "幽灵": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.45,
+        "total_strength": 7.942187335342169
+    },
+    {
+        "combo": [
+            "狗熊",
+            "冰鸟",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 7.9394528875127435
+    },
+    {
+        "combo": [
+            "艾希",
+            "冰鸟",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 7.9394528875127435
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "龙女",
+            "亚索"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "浪人": 1
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.6,
+        "total_strength": 7.910156308207661
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "亚索",
+            "船长"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "浪人": 1
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.6,
+        "total_strength": 7.910156308207661
+    },
+    {
+        "combo": [
+            "剑魔",
+            "亚索",
+            "冰鸟"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "浪人": 1
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.6,
+        "total_strength": 7.910156308207661
+    },
+    {
+        "combo": [
+            "潘森",
+            "亚索",
+            "船长"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "浪人": 1
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.6,
+        "total_strength": 7.910156308207661
+    },
+    {
+        "combo": [
+            "寡妇",
+            "亚索",
+            "冰鸟"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "浪人": 1
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 1.6,
+        "total_strength": 7.910156308207661
+    },
+    {
+        "combo": [
+            "劫",
+            "阿卡丽",
+            "卡萨"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "刺客": 3
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.2,
+        "total_strength": 7.902343615423888
+    },
+    {
+        "combo": [
+            "猪妹",
+            "冰鸟",
+            "凯南"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4,
+        "total_strength": 7.900390378199518
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "亚索",
+            "阿卡丽"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 7.890625011641532
+    },
+    {
+        "combo": [
+            "亚索",
+            "阿卡丽",
+            "派克"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "忍者": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3,
+        "total_strength": 7.890625011641532
+    },
+    {
+        "combo": [
+            "龙女",
+            "龙王",
+            "小法"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "龙": 2
+        },
+        "total_trait_num": 2,
+        "total_trait_strength": 3.6,
+        "total_strength": 7.890624832361937
+    },
+    {
+        "combo": [
+            "铁男",
+            "死歌",
+            "卡萨丁"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "幽灵": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 2,
+        "total_strength": 7.8828125
+    },
+    {
+        "combo": [
+            "男枪",
+            "铁男",
+            "死歌"
+        ],
+        "trait_num": 1,
+        "trait_detail": {
+            "幽灵": 2
+        },
+        "total_trait_num": 1,
+        "total_trait_strength": 2,
+        "total_strength": 7.8828125
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "乌鸦",
+            "诺手"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1000004,
+        "total_strength": 7.88046918297187
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "诺手",
+            "铁男"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.1499996,
+        "total_strength": 7.87794924413785
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "诺手",
+            "盖伦"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.1499996,
+        "total_strength": 7.87794924413785
+    },
+    {
+        "combo": [
+            "潘森",
+            "布隆",
+            "猪妹"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "冰川": 2,
+            "护卫": 2
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.1,
+        "total_strength": 7.874999800696969
+    },
+    {
+        "combo": [
+            "猪妹",
+            "冰鸟",
+            "机器人"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "冰川": 2,
+            "机器人": 1
+        },
+        "total_trait_num": 3,
+        "total_trait_strength": 4.3,
+        "total_strength": 7.8378904750570655
+    },
+    {
+        "combo": [
+            "诺手",
+            "卡特",
+            "天使"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "帝国": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.1499996,
+        "total_strength": 7.817304665949193
+    }
+]

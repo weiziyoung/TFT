@@ -9,7 +9,7 @@ import (
 
 type Graph map[int][]int
 
-
+// GenerateGraph 生成羁绊图
 func GenerateGraph(championList models.ChampionList) Graph{
 	graph := make(Graph)
 	positionMap := make(map[string]int)

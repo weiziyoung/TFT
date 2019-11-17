@@ -1,2 +1,7 @@
-maximum_heap = 128
-gain_level = 1.25
+maximum_heap : 256
+gain_level : 1.25
+evaluation: "trait_num"
+trait_path: "data/traits.json"
+champion_path: "data/champions.json"
+language_path: "data/language.json"
+output_path: "data/output/trait_num/"

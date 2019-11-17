@@ -15,7 +15,8 @@ def setify(combo:dict) -> set:
 
 
 if __name__ == "__main__":
-    with open('../data/champions_comb8.json', 'r') as f:
+    num = 9
+    with open(f'../data/output/total_strength/champions_comb{num}.json', 'r') as f:
         combos = json.load(f)
 
     trait_list = [setify(combos[0])]
@@ -29,5 +30,5 @@ if __name__ == "__main__":
         else:
             trait_list.append(combo_set)
     result = [str(list(each)) for each in trait_list]
-    with open("../data/final_result.json", 'w') as f:
+    with open(f"../data/final_result/total_strength/final_result{num}.json", 'w') as f:
         json.dump(result, f, indent='\t', ensure_ascii=False)

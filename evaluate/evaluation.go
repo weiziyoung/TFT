@@ -21,7 +21,7 @@ func Evaluate(combo []models.ChampionDict) models.ComboMetric {
 	traitChampionsDict := make(map[string][]int)
 	for index, unit := range combo {
 		comboName = append(comboName, unit.Name)
-		unitStrength := math.Pow(float64(globals.GainLevel), float64(unit.Price-1))
+		unitStrength := math.Pow(globals.Global.GainLevel, float64(unit.Price-1))
 		unitsStrength[index] = unitStrength
 		for _, origin := range unit.Origin {
 			traitChampionsDict[origin] = append(traitChampionsDict[origin], index)

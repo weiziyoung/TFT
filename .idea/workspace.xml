@@ -2,135 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efe0865a-8d0d-4c0f-bcf6-a6e22a71bdcf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_scripts/scrape_icon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_scripts/visualise_champions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_scripts/visualise_trait_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb8.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/0Varus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/10Yasuo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/11Braum.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/12Lissandra.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/13Ashe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/14Volibear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/15Sejuani.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/16Anivia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/17Blitzcrank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/18Darius.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/19Katarina.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/1Elise.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/20Draven.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/21Fiora.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/22Garen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/23Vayne.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/24Lucian.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/25Leona.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/26Kayle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/27Shen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/28Zed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/29Kennen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/2Morgana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/30Akali.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/31Graves.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/32Pyke.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/33Twist Fate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/34Gangplank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/35Miss Fortune.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/36Mordekaiser.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/37Kindred.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/38Karthus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/39Warwick.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/3Evelynn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/40Nidalee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/41Ahri.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/42Rengar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/43Gnar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/44Kha'Zix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/45Kassadin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/46Rek'Sai.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/47Cho'Gath.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/48Kaisa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/49Tristana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/4Aatrox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/50Lulu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/51Poppy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/52Veigar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/53Camille.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/54VI.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/55Jinx.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/5Brand.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/6Swain.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/7Shyvana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/8Aurelion Sol.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/9Pantheon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Aatrox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Ahri.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Akali.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Anivia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Ashe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Aurelion Sol.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Blitzcrank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Brand.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Braum.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Camille.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Cho'Gath.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Darius.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Draven.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Elise.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Evelynn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Fiora.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Gangplank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Garen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Gnar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Graves.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Jinx.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Kaisa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Karthus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Kassadin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Katarina.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Kayle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Kennen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Kha'Zix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Kindred.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Leona.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Lissandra.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Lucian.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Lulu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Miss Fortune.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Mordekaiser.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Morgana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Nidalee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Pantheon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Poppy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Pyke.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Rek'Sai.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Rengar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Sejuani.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Shen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Shyvana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Swain.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Tristana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Twist Fate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/VI.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Varus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Vayne.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Veigar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Volibear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Warwick.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Yasuo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/avatar/Zed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions_comb5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb6.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions_comb6.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb7.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions_comb7.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb8.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions_comb8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb9.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/champions_comb9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/language.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/language.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/champions_comb10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/champions_comb3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/champions_comb4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/champions_comb5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/champions_comb6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/champions_comb7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/champions_comb8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/champions_comb9.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/final_result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluate/evaluation.go" beforeDir="false" afterPath="$PROJECT_DIR$/evaluate/evaluation.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globals/global.go" beforeDir="false" afterPath="$PROJECT_DIR$/globals/global.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/metrics.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/metrics.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_scripts/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_scripts/download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_scripts/deduplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_scripts/deduplicate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/graph.go" beforeDir="false" afterPath="$PROJECT_DIR$/search/graph.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/search/search.go" beforeDir="false" afterPath="$PROJECT_DIR$/search/search.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/search/traverse.go" beforeDir="false" afterPath="$PROJECT_DIR$/search/traverse.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/extend.go" beforeDir="false" afterPath="$PROJECT_DIR$/utils/extend.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -162,14 +59,16 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/visualisation" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/output/total_strength" />
+      <recent name="$PROJECT_DIR$/data/output" />
+      <recent name="$PROJECT_DIR$/visualisation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -184,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go">
+  <component name="RunManager" selected="Python.deduplicate">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="TFT" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -203,7 +102,7 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="download" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="deduplicate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TFT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_scripts/download.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_scripts/deduplicate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.deduplicate" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build traverse.go" />
         <item itemvalue="Python.visualise_trait_graph" />
         <item itemvalue="Python.scrape_icon" />
-        <item itemvalue="Python.download" />
       </list>
     </recent_temporary>
   </component>

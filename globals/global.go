@@ -3,25 +3,40 @@ package globals
 import (
 	"TFT/models"
 	"encoding/json"
+	"github.com/go-yaml/yaml"
 	"github.com/schollz/progressbar"
+	"io/ioutil"
 	"os"
 )
 
 var (
-	traitList    models.TraitList
-	ChampionList models.ChampionList
+	traitList                models.TraitList
+	ChampionList             models.ChampionList
 	OneTraitChampionNameList []string
-	TraitDict    map[string]models.Trait
-	ChampionDict map[string]models.Champion
-	TranslateDict map[string]string
-	Bar          *progressbar.ProgressBar
-	Counter      int64
-	GainLevel 	 float32
+	TraitDict                map[string]models.Trait
+	ChampionDict             map[string]models.Champion
+	TranslateDict            map[string]string
+	Bar                      *progressbar.ProgressBar
+	Counter                  int64
+	Global                   GlobalStruct
 )
 
+type GlobalStruct struct {
+	TraitPath    string  `yaml:"trait_path"`
+	ChampionPath string  `yaml:"champion_path"`
+	LanguagePath string  `yaml:"language_path"`
+	OutPutPath   string  `yaml:"output_path"`
+	GainLevel    float64 `yaml:"gain_level"`
+	MaximumHeap  int     `yaml:"maximum_heap"`
+	Evaluation   string  `yaml:"evaluation"`
+}
+
 func init() {
+	// 读取配置文件
+	content, _ := ioutil.ReadFile("config/app.yaml")
+	err := yaml.Unmarshal(content, &Global)
 	// Init traits file
-	traitsFile, err := os.Open("data/traits.json")
+	traitsFile, err := os.Open(Global.TraitPath)
 	if err != nil {
 		panic("Open traits file fail!")
 	}
@@ -36,13 +51,11 @@ func init() {
 			BonusNum:  trait.BonusNum,
 			Scope:     trait.Scope,
 			Champions: trait.Champions,
-			Strength: trait.Strength,
+			Strength:  trait.Strength,
 		}
 	}
-	GainLevel = 1.2
-
 	// Init champion file
-	championFile, err := os.Open("data/champions.json")
+	championFile, err := os.Open(Global.ChampionPath)
 	if err != nil {
 		panic("Open champion file fail!")
 	}
@@ -51,12 +64,12 @@ func init() {
 		panic(err.Error())
 	}
 
-	translateFile, err := os.Open("data/language.json")
+	translateFile, err := os.Open(Global.LanguagePath)
 	if err != nil {
 		panic("Open language file fail")
 	}
 	jsonParser = json.NewDecoder(translateFile)
-	if err = jsonParser.Decode(&TranslateDict); err!=nil {
+	if err = jsonParser.Decode(&TranslateDict); err != nil {
 		panic(err.Error())
 	}
 	ChampionDict = make(map[string]models.Champion)
@@ -68,8 +81,8 @@ func init() {
 			Class:  champion.Class,
 		}
 	}
-	for _, trait := range traitList{
-		if trait.BonusNum[0] == 1{
+	for _, trait := range traitList {
+		if trait.BonusNum[0] == 1 {
 			OneTraitChampionNameList = append(OneTraitChampionNameList, trait.Champions...)
 		}
 	}

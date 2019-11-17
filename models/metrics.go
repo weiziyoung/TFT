@@ -3,7 +3,7 @@ package models
 type ComboMetric struct {
 	// 英雄组合
 	Combo []string `json:"combo"`
-	// 队伍总羁绊数量 = 每个羁绊 * 羁绊等级
+	// 队伍总羁绊数量 = sigma{羁绊} * 羁绊等级
 	TraitNum int `json:"trait_num"`
 	// 具体羁绊
 	TraitDetail map[string]int `json:"trait_detail"`

@@ -1,0 +1,5592 @@
+[
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "机器人",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 16.4,
+        "total_strength": 19.052499984405003
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 7,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 16.4,
+        "total_strength": 20.43062493746634
+    },
+    {
+        "combo": [
+            "机器人",
+            "劫",
+            "螳螂",
+            "挖掘机",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 4
+        },
+        "total_trait_num": 16,
+        "total_trait_strength": 17.3,
+        "total_strength": 18.858750409018253
+    },
+    {
+        "combo": [
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "卡萨丁",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 4
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 16.1,
+        "total_strength": 19.436875254791232
+    },
+    {
+        "combo": [
+            "寡妇",
+            "火男",
+            "机器人",
+            "劫",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.699999,
+        "total_strength": 15.958750442266467
+    },
+    {
+        "combo": [
+            "潘森",
+            "布隆",
+            "艾希",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "护卫": 2,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 18.3,
+        "total_strength": 25.16390589654678
+    },
+    {
+        "combo": [
+            "艾希",
+            "猪妹",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 14,
+        "total_strength": 20.107187223634682
+    },
+    {
+        "combo": [
+            "盖伦",
+            "薇恩",
+            "天使",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "游侠": 2,
+            "虚空": 2,
+            "贵族": 3,
+            "骑士": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 18.4,
+        "total_strength": 24.55088187408937
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "机器人",
+            "卡特",
+            "劫",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.9,
+        "total_strength": 19.421680043987003
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "寡妇",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.7,
+        "total_strength": 14.84312527611852
+    },
+    {
+        "combo": [
+            "寡妇",
+            "火男",
+            "机器人",
+            "劫",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.700001,
+        "total_strength": 14.608750368505719
+    },
+    {
+        "combo": [
+            "火男",
+            "乌鸦",
+            "丽桑卓",
+            "狗熊",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.5,
+        "total_strength": 20.22968778926879
+    },
+    {
+        "combo": [
+            "潘森",
+            "布隆",
+            "艾希",
+            "机器人",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 16.800001,
+        "total_strength": 24.649219226452995
+    },
+    {
+        "combo": [
+            "布隆",
+            "狗熊",
+            "机器人",
+            "盖伦",
+            "日女",
+            "天使"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "贵族": 3,
+            "骑士": 2
+        },
+        "total_trait_num": 16,
+        "total_trait_strength": 21.4,
+        "total_strength": 25.20072198609356
+    },
+    {
+        "combo": [
+            "艾希",
+            "猪妹",
+            "机器人",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.999999,
+        "total_strength": 18.729062270573337
+    },
+    {
+        "combo": [
+            "盖伦",
+            "薇恩",
+            "天使",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "游侠": 2,
+            "虚空": 2,
+            "贵族": 3,
+            "骑士": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 18.399998,
+        "total_strength": 22.966038210925888
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "剑魔",
+            "亚索",
+            "机器人",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.200001,
+        "total_strength": 17.48906308396254
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "火男",
+            "机器人",
+            "慎",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.000001,
+        "total_strength": 15.80156301457901
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "机器人",
+            "诺手",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.300001,
+        "total_strength": 19.738282160297977
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "亚索",
+            "机器人",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "机器人": 1,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 13,
+        "total_strength": 19.119687515045513
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "寡妇",
+            "机器人",
+            "劫",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.700001,
+        "total_strength": 14.815000396817926
+    },
+    {
+        "combo": [
+            "莫甘娜",
+            "寡妇",
+            "机器人",
+            "劫",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.7,
+        "total_strength": 14.140000349879267
+    },
+    {
+        "combo": [
+            "寡妇",
+            "火男",
+            "丽桑卓",
+            "狗熊",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.499999,
+        "total_strength": 19.175000247359275
+    },
+    {
+        "combo": [
+            "剑魔",
+            "火男",
+            "丽桑卓",
+            "狗熊",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.499999,
+        "total_strength": 19.175000247359275
+    },
+    {
+        "combo": [
+            "火男",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "德莱文",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.7,
+        "total_strength": 21.118750220304356
+    },
+    {
+        "combo": [
+            "龙女",
+            "潘森",
+            "布隆",
+            "狗熊",
+            "机器人",
+            "劫"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 17.699999,
+        "total_strength": 20.344531187973914
+    },
+    {
+        "combo": [
+            "潘森",
+            "布隆",
+            "艾希",
+            "机器人",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 16.8,
+        "total_strength": 22.624219115811872
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "阿卡丽",
+            "派克",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.9,
+        "total_strength": 16.6743751972355
+    },
+    {
+        "combo": [
+            "布隆",
+            "艾希",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 14,
+        "total_strength": 19.193124757162295
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "机器人",
+            "劫",
+            "狮子狗",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 14.799999,
+        "total_strength": 16.43652333121281
+    },
+    {
+        "combo": [
+            "艾希",
+            "猪妹",
+            "机器人",
+            "诺手",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 17.699999,
+        "total_strength": 19.850078017342604
+    },
+    {
+        "combo": [
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "卡萨丁",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 4
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 16.1,
+        "total_strength": 18.086875181030486
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "寡妇",
+            "亚索",
+            "机器人",
+            "阿卡丽",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.8,
+        "total_strength": 18.63183598627802
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "寡妇",
+            "机器人",
+            "劫",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.700001,
+        "total_strength": 15.115000408738855
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "剑魔",
+            "亚索",
+            "丽桑卓",
+            "艾希",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "剑士": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 14.4,
+        "total_strength": 15.829687196435401
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "剑魔",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.8,
+        "total_strength": 18.77906255891081
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "火男",
+            "丽桑卓",
+            "狗熊",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.499999,
+        "total_strength": 18.800000232458114
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "亚索",
+            "诺手",
+            "铁男",
+            "千珏"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "帝国": 2,
+            "幽灵": 2,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 17.1,
+        "total_strength": 22.246211071992285
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "机器人",
+            "诺手",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "帝国": 2,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.3,
+        "total_strength": 18.38828208653723
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "诺手",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.799999,
+        "total_strength": 20.08140660702717
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "亚索",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.5,
+        "total_strength": 15.915624980302528
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "机器人",
+            "狼人",
+            "狮子狗",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "狂野": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 14.799999,
+        "total_strength": 17.253437827578747
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "寡妇",
+            "机器人",
+            "劫",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.700001,
+        "total_strength": 13.465000323057177
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "狼人",
+            "豹女"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "变形者": 3,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "狂野": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 14.700001,
+        "total_strength": 15.35781301492825
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "亚索",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.5,
+        "total_strength": 15.665624980302528
+    },
+    {
+        "combo": [
+            "莫甘娜",
+            "亚索",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.5,
+        "total_strength": 16.22812498030253
+    },
+    {
+        "combo": [
+            "寡妇",
+            "剑魔",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.699999,
+        "total_strength": 16.86812537670136
+    },
+    {
+        "combo": [
+            "寡妇",
+            "乌鸦",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.7,
+        "total_strength": 16.572812844850127
+    },
+    {
+        "combo": [
+            "剑魔",
+            "火男",
+            "亚索",
+            "丽桑卓",
+            "冰鸟",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 2,
+            "剑士": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.9,
+        "total_strength": 24.07578085889108
+    },
+    {
+        "combo": [
+            "剑魔",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "德莱文",
+            "阿卡丽"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.700001,
+        "total_strength": 21.671875210246068
+    },
+    {
+        "combo": [
+            "剑魔",
+            "亚索",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.799999,
+        "total_strength": 16.696874905796722
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "机器人",
+            "卡特",
+            "劫",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 13,
+        "total_strength": 17.50914099816233
+    },
+    {
+        "combo": [
+            "龙女",
+            "潘森",
+            "布隆",
+            "狗熊",
+            "机器人",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 17.7,
+        "total_strength": 20.344531187973914
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "布隆",
+            "狗熊",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 17.7,
+        "total_strength": 22.055468648858366
+    },
+    {
+        "combo": [
+            "潘森",
+            "亚索",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.5,
+        "total_strength": 17.10703123030253
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "慎",
+            "船长",
+            "卡密尔",
+            "金克斯"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "机器人": 1,
+            "枪手": 2,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 19.199999,
+        "total_strength": 21.30578005353456
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "劫",
+            "螳螂",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.900002,
+        "total_strength": 20.365000336095694
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "船长",
+            "卡密尔",
+            "蔚",
+            "金克斯"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "斗士": 2,
+            "机器人": 1,
+            "枪手": 2,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 18.9,
+        "total_strength": 22.55703045899514
+    },
+    {
+        "combo": [
+            "布隆",
+            "艾希",
+            "机器人",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 14,
+        "total_strength": 17.81499980410095
+    },
+    {
+        "combo": [
+            "丽桑卓",
+            "狗熊",
+            "机器人",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.9,
+        "total_strength": 16.771250020843
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "机器人",
+            "劫",
+            "派克",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 14.799999,
+        "total_strength": 15.999023338663392
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "机器人",
+            "挖掘机",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "斗士": 4,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 14,
+        "total_strength": 20.41562484439928
+    },
+    {
+        "combo": [
+            "艾希",
+            "猪妹",
+            "机器人",
+            "诺手",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 17.7,
+        "total_strength": 18.297577964704253
+    },
+    {
+        "combo": [
+            "薇恩",
+            "劫",
+            "螳螂",
+            "挖掘机",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "游侠": 2,
+            "虚空": 4
+        },
+        "total_trait_num": 16,
+        "total_trait_strength": 16.9,
+        "total_strength": 18.925937733254397
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "莫甘娜",
+            "艾希",
+            "狗熊",
+            "机器人",
+            "劫"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13,
+        "total_strength": 13.026562706381082
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "莫甘娜",
+            "机器人",
+            "慎",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12,
+        "total_strength": 16.682813069713305
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "寡妇",
+            "亚索",
+            "机器人",
+            "劫",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.799999,
+        "total_strength": 17.253711033216675
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "寡妇",
+            "亚索",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 15.1,
+        "total_strength": 21.310312542612664
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "寡妇",
+            "机器人",
+            "劫",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.7,
+        "total_strength": 13.765000334978106
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "寡妇",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.699999,
+        "total_strength": 16.4931253618002
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "寡妇",
+            "螳螂",
+            "挖掘机",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "恶魔": 2,
+            "斗士": 2,
+            "游侠": 2,
+            "虚空": 4
+        },
+        "total_trait_num": 17,
+        "total_trait_strength": 17.9,
+        "total_strength": 19.72593795081135
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "剑魔",
+            "机器人",
+            "慎",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12,
+        "total_strength": 15.332812995952558
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "剑魔",
+            "机器人",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.799999,
+        "total_strength": 17.400937605849464
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "火男",
+            "亚索",
+            "机器人",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.200001,
+        "total_strength": 19.30781317634974
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "火男",
+            "丽桑卓",
+            "艾希",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.599999,
+        "total_strength": 18.851562533527613
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "火男",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.799999,
+        "total_strength": 19.24781257753726
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.200001,
+        "total_strength": 19.893750699632804
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "亚索",
+            "卡特",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.999999,
+        "total_strength": 23.556406741975806
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "机器人",
+            "诺手",
+            "铁男",
+            "千珏"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "帝国": 2,
+            "幽灵": 2,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 17.199999,
+        "total_strength": 20.197773616067128
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "蜘蛛",
+            "亚索",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.700001,
+        "total_strength": 19.885312530691735
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.8,
+        "total_strength": 19.833750100820325
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "卡特",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 15.199999,
+        "total_strength": 23.478281553382985
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "德莱文",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.8,
+        "total_strength": 23.079844105537056
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "机器人",
+            "劫",
+            "螳螂",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.799999,
+        "total_strength": 18.0384377012169
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.799999,
+        "total_strength": 20.76656272803899
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "劫",
+            "螳螂",
+            "挖掘机",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "游侠": 2,
+            "虚空": 4
+        },
+        "total_trait_num": 16,
+        "total_trait_strength": 16.9,
+        "total_strength": 19.238437733254397
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "阿卡丽",
+            "螳螂",
+            "挖掘机",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "游侠": 2,
+            "虚空": 4
+        },
+        "total_trait_num": 16,
+        "total_trait_strength": 16.9,
+        "total_strength": 20.61656268631574
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "剑魔",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.299999,
+        "total_strength": 13.22500014603138
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "德莱文",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.7,
+        "total_strength": 19.975000174855815
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "乌鸦",
+            "机器人",
+            "诺手",
+            "狼人",
+            "纳尔"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "变形者": 3,
+            "帝国": 2,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "狂野": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 14.799999,
+        "total_strength": 17.62390705153346
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "乌鸦",
+            "卡特",
+            "阿卡丽",
+            "狮子狗",
+            "纳尔"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "变形者": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "狂野": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 16.3,
+        "total_strength": 22.10578168675303
+    },
+    {
+        "combo": [
+            "莫甘娜",
+            "寡妇",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.7,
+        "total_strength": 16.86812537670136
+    },
+    {
+        "combo": [
+            "莫甘娜",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "德莱文",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.700001,
+        "total_strength": 20.650000201677905
+    },
+    {
+        "combo": [
+            "寡妇",
+            "剑魔",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.299999,
+        "total_strength": 13.90000017285347
+    },
+    {
+        "combo": [
+            "寡妇",
+            "剑魔",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.700001,
+        "total_strength": 15.51812530294061
+    },
+    {
+        "combo": [
+            "寡妇",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "卡特",
+            "阿卡丽"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 13,
+        "total_strength": 21.183594175614417
+    },
+    {
+        "combo": [
+            "寡妇",
+            "乌鸦",
+            "机器人",
+            "劫",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.700001,
+        "total_strength": 16.54468796554953
+    },
+    {
+        "combo": [
+            "寡妇",
+            "亚索",
+            "机器人",
+            "劫",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.9,
+        "total_strength": 15.733750236723576
+    },
+    {
+        "combo": [
+            "寡妇",
+            "亚索",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.9,
+        "total_strength": 18.461875263545668
+    },
+    {
+        "combo": [
+            "剑魔",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "卡特",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.7,
+        "total_strength": 19.55234399638139
+    },
+    {
+        "combo": [
+            "剑魔",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "德莱文",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.7,
+        "total_strength": 21.125000219559293
+    },
+    {
+        "combo": [
+            "剑魔",
+            "乌鸦",
+            "亚索",
+            "诺手",
+            "天使",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "骑士": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 17.9,
+        "total_strength": 21.74937473303871
+    },
+    {
+        "combo": [
+            "剑魔",
+            "亚索",
+            "丽桑卓",
+            "狗熊",
+            "机器人",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "剑士": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.6,
+        "total_strength": 15.99687481340952
+    },
+    {
+        "combo": [
+            "火男",
+            "亚索",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.5,
+        "total_strength": 16.61874998030253
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.5,
+        "total_strength": 17.10703123030253
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "机器人",
+            "卡特",
+            "阿卡丽",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 13,
+        "total_strength": 20.237266024984425
+    },
+    {
+        "combo": [
+            "龙女",
+            "潘森",
+            "亚索",
+            "布隆",
+            "狗熊",
+            "机器人"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 17.9,
+        "total_strength": 23.57890631998889
+    },
+    {
+        "combo": [
+            "龙女",
+            "亚索",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.5,
+        "total_strength": 16.22812498030253
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "布隆",
+            "狗熊",
+            "机器人",
+            "劫"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 17.7,
+        "total_strength": 21.399218660034236
+    },
+    {
+        "combo": [
+            "潘森",
+            "亚索",
+            "布隆",
+            "狗熊",
+            "机器人",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 15.7,
+        "total_strength": 20.032031503459436
+    },
+    {
+        "combo": [
+            "潘森",
+            "亚索",
+            "布隆",
+            "狗熊",
+            "机器人",
+            "阿卡丽"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 15.7,
+        "total_strength": 21.508593978313726
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "德莱文",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.799999,
+        "total_strength": 17.20468738717027
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "慎",
+            "船长",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.799999,
+        "total_strength": 16.696874905796722
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "劫",
+            "派克",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.9,
+        "total_strength": 16.646250317934907
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "劫",
+            "螳螂",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.9,
+        "total_strength": 19.015000262334944
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "阿卡丽",
+            "狮子狗",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.900002,
+        "total_strength": 18.461875263545668
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "船长",
+            "好运姐",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "斗士": 2,
+            "机器人": 1,
+            "枪手": 2,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 18.9,
+        "total_strength": 21.9222648572782
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "挖掘机",
+            "大虫子",
+            "蔚",
+            "金克斯"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "斗士": 4,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 12,
+        "total_strength": 20.26718751983717
+    },
+    {
+        "combo": [
+            "布隆",
+            "丽桑卓",
+            "狗熊",
+            "冰鸟",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 4,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 13.299999,
+        "total_strength": 22.161328832432634
+    },
+    {
+        "combo": [
+            "丽桑卓",
+            "艾希",
+            "狗熊",
+            "冰鸟",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 4,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 13.3,
+        "total_strength": 22.614453847333795
+    },
+    {
+        "combo": [
+            "丽桑卓",
+            "狗熊",
+            "猪妹",
+            "冰鸟",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 4,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 13.299999,
+        "total_strength": 23.180860115960247
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "机器人",
+            "诺手",
+            "铁男",
+            "千珏"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "幽灵": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 18.1,
+        "total_strength": 17.72078098285943
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "机器人",
+            "天使",
+            "铁男",
+            "千珏"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "幽灵": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 18.099998,
+        "total_strength": 19.378398135993628
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "机器人",
+            "阿卡丽",
+            "狮子狗",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 14.799999,
+        "total_strength": 17.814648284274153
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "机器人",
+            "狼人",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "斗士": 4,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 14,
+        "total_strength": 19.015624826517886
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "劫",
+            "螳螂",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 14.700001,
+        "total_strength": 20.252500016442497
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "狼人",
+            "狮子狗",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "斗士": 2,
+            "游侠": 2,
+            "狂野": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.7,
+        "total_strength": 18.117500069043594
+    },
+    {
+        "combo": [
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "挖掘机",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 4
+        },
+        "total_trait_num": 16,
+        "total_trait_strength": 17.3,
+        "total_strength": 20.236875362079594
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "莫甘娜",
+            "亚索",
+            "机器人",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.200001,
+        "total_strength": 18.839063157723288
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "莫甘娜",
+            "亚索",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.700001,
+        "total_strength": 20.560312557513825
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "莫甘娜",
+            "艾希",
+            "狗熊",
+            "机器人",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13,
+        "total_strength": 13.026562706381082
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "莫甘娜",
+            "艾希",
+            "狗熊",
+            "机器人",
+            "阿卡丽"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 12.999999,
+        "total_strength": 14.010937689617275
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "莫甘娜",
+            "机器人",
+            "慎",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12,
+        "total_strength": 15.332812995952558
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "莫甘娜",
+            "机器人",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.799999,
+        "total_strength": 17.400937605849464
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "莫甘娜",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.8,
+        "total_strength": 18.77906255891081
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "寡妇",
+            "亚索",
+            "机器人",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.200001,
+        "total_strength": 18.839063157723288
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "寡妇",
+            "亚索",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 15.1,
+        "total_strength": 19.93218758955132
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "寡妇",
+            "机器人",
+            "慎",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12,
+        "total_strength": 15.332812995952558
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "寡妇",
+            "机器人",
+            "慎",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12,
+        "total_strength": 16.682813069713305
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "寡妇",
+            "机器人",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 15.2,
+        "total_strength": 18.150937590948303
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "寡妇",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.700001,
+        "total_strength": 15.14312528803945
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "寡妇",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 15.200001,
+        "total_strength": 19.529062544009648
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "寡妇",
+            "机器人",
+            "狼人",
+            "狮子狗",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "狂野": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.599998,
+        "total_strength": 15.387461345749909
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "剑魔",
+            "亚索",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.7,
+        "total_strength": 19.18218760445248
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "剑魔",
+            "亚索",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.700001,
+        "total_strength": 20.560312557513825
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "剑魔",
+            "机器人",
+            "慎",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12,
+        "total_strength": 16.682813069713305
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "剑魔",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.299999,
+        "total_strength": 13.52500015795231
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "火男",
+            "亚索",
+            "丽桑卓",
+            "艾希",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.5,
+        "total_strength": 20.63281253213063
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "火男",
+            "亚索",
+            "机器人",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.2,
+        "total_strength": 17.957813102588993
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "火男",
+            "亚索",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.700001,
+        "total_strength": 19.65093762307893
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "火男",
+            "亚索",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.700001,
+        "total_strength": 21.029062576140277
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "火男",
+            "机器人",
+            "慎",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.000001,
+        "total_strength": 17.151563088339756
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "火男",
+            "机器人",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.8,
+        "total_strength": 17.869687624475915
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "德莱文",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.7,
+        "total_strength": 20.275000186776744
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.2,
+        "total_strength": 18.543750625872057
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "亚索",
+            "卡特",
+            "劫",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.799999,
+        "total_strength": 21.20293004259002
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "亚索",
+            "卡特",
+            "阿卡丽",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.8,
+        "total_strength": 22.58105499565136
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "亚索",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.700001,
+        "total_strength": 20.236875146361996
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "亚索",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.7,
+        "total_strength": 21.61500009942334
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "蜘蛛",
+            "亚索",
+            "机器人",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.2,
+        "total_strength": 16.81406305714045
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "蜘蛛",
+            "亚索",
+            "机器人",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.200001,
+        "total_strength": 18.164063130901198
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "机器人",
+            "卡特",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 14.1,
+        "total_strength": 21.77515674337279
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "机器人",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.799999,
+        "total_strength": 18.45562514775898
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "诺手",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.799999,
+        "total_strength": 21.459531560088514
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "卡特",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 15.199999,
+        "total_strength": 22.100156600321647
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "乌鸦",
+            "德莱文",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.8,
+        "total_strength": 21.70171915247571
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "蜘蛛",
+            "亚索",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.7,
+        "total_strength": 18.50718757763039
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "亚索",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "机器人": 1,
+            "浪人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 13.000001,
+        "total_strength": 20.497812468106858
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "艾希",
+            "狗熊",
+            "机器人",
+            "挖掘机",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "斗士": 4,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 14,
+        "total_strength": 17.095312271639703
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "机器人",
+            "劫",
+            "螳螂",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.8,
+        "total_strength": 19.38843777497765
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.8,
+        "total_strength": 19.416562654278245
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "蜘蛛",
+            "艾希",
+            "狗熊",
+            "机器人",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 12.999999,
+        "total_strength": 12.351562679558992
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "蜘蛛",
+            "艾希",
+            "狗熊",
+            "机器人",
+            "劫"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13,
+        "total_strength": 12.351562679558992
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "蜘蛛",
+            "艾希",
+            "狗熊",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13,
+        "total_strength": 12.789062672108411
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "蜘蛛",
+            "艾希",
+            "狗熊",
+            "机器人",
+            "阿卡丽"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 12.999999,
+        "total_strength": 13.335937662795185
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "寡妇",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.7,
+        "total_strength": 16.19312534987927
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "剑魔",
+            "亚索",
+            "机器人",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.5,
+        "total_strength": 16.02812515762634
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "火男",
+            "丽桑卓",
+            "狗熊",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.5,
+        "total_strength": 18.500000220537185
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "乌鸦",
+            "龙女",
+            "亚索",
+            "德莱文",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "变形者": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 15.2,
+        "total_strength": 22.50968758475966
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "狼人",
+            "纳尔"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "变形者": 3,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "狂野": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 14.700001,
+        "total_strength": 16.95906305128708
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "乌鸦",
+            "机器人",
+            "诺手",
+            "狼人",
+            "豹女"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "变形者": 3,
+            "帝国": 2,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "狂野": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 14.799999,
+        "total_strength": 16.02265701517463
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "乌鸦",
+            "诺手",
+            "凯南",
+            "纳尔",
+            "波比"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "变形者": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "约德尔": 3,
+            "骑士": 2
+        },
+        "total_trait_num": 16,
+        "total_trait_strength": 20.799997,
+        "total_strength": 22.345398167189206
+    },
+    {
+        "combo": [
+            "蜘蛛",
+            "乌鸦",
+            "卡特",
+            "劫",
+            "狮子狗",
+            "纳尔"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "变形者": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "狂野": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 16.3,
+        "total_strength": 20.727656733691685
+    },
+    {
+        "combo": [
+            "莫甘娜",
+            "寡妇",
+            "机器人",
+            "劫",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.699999,
+        "total_strength": 15.490000423640016
+    },
+    {
+        "combo": [
+            "莫甘娜",
+            "寡妇",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.700001,
+        "total_strength": 15.51812530294061
+    },
+    {
+        "combo": [
+            "莫甘娜",
+            "剑魔",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.299999,
+        "total_strength": 13.90000017285347
+    },
+    {
+        "combo": [
+            "莫甘娜",
+            "火男",
+            "丽桑卓",
+            "狗熊",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.499999,
+        "total_strength": 19.175000247359275
+    },
+    {
+        "combo": [
+            "寡妇",
+            "剑魔",
+            "亚索",
+            "卡特",
+            "德莱文",
+            "劫"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 15.2,
+        "total_strength": 20.625781126739444
+    },
+    {
+        "combo": [
+            "寡妇",
+            "剑魔",
+            "亚索",
+            "卡特",
+            "德莱文",
+            "阿卡丽"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 15.2,
+        "total_strength": 22.003906079800785
+    },
+    {
+        "combo": [
+            "寡妇",
+            "剑魔",
+            "机器人",
+            "劫",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.7,
+        "total_strength": 14.140000349879267
+    },
+    {
+        "combo": [
+            "寡妇",
+            "剑魔",
+            "机器人",
+            "劫",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.7,
+        "total_strength": 15.490000423640016
+    },
+    {
+        "combo": [
+            "寡妇",
+            "火男",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.7,
+        "total_strength": 17.336875395327812
+    },
+    {
+        "combo": [
+            "寡妇",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "卡特",
+            "劫"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.999999,
+        "total_strength": 19.805469222553075
+    },
+    {
+        "combo": [
+            "寡妇",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "德莱文",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.7,
+        "total_strength": 20.650000201677905
+    },
+    {
+        "combo": [
+            "寡妇",
+            "乌鸦",
+            "机器人",
+            "劫",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.7,
+        "total_strength": 15.194687891788783
+    },
+    {
+        "combo": [
+            "寡妇",
+            "乌鸦",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.700001,
+        "total_strength": 17.922812918610877
+    },
+    {
+        "combo": [
+            "寡妇",
+            "亚索",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.5,
+        "total_strength": 16.22812498030253
+    },
+    {
+        "combo": [
+            "寡妇",
+            "亚索",
+            "机器人",
+            "劫",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.900001,
+        "total_strength": 17.083750310484326
+    },
+    {
+        "combo": [
+            "寡妇",
+            "亚索",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.900001,
+        "total_strength": 17.111875189784918
+    },
+    {
+        "combo": [
+            "剑魔",
+            "火男",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.299999,
+        "total_strength": 14.368750191479922
+    },
+    {
+        "combo": [
+            "剑魔",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "诺手",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.699999,
+        "total_strength": 18.5960939695593
+    },
+    {
+        "combo": [
+            "剑魔",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "德莱文",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 14,
+        "total_strength": 21.212500134622676
+    },
+    {
+        "combo": [
+            "剑魔",
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "德莱文",
+            "劫"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.700001,
+        "total_strength": 20.687500227009874
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "蜘蛛",
+            "机器人",
+            "慎",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 11.999999,
+        "total_strength": 16.007813042891215
+    },
+    {
+        "combo": [
+            "剑魔",
+            "乌鸦",
+            "亚索",
+            "诺手",
+            "盖伦",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "浪人": 1,
+            "骑士": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 17.9,
+        "total_strength": 20.091757579904513
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "蜘蛛",
+            "机器人",
+            "慎",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12,
+        "total_strength": 14.657812969130468
+    },
+    {
+        "combo": [
+            "剑魔",
+            "乌鸦",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.3,
+        "total_strength": 14.954687714762986
+    },
+    {
+        "combo": [
+            "火男",
+            "乌鸦",
+            "丽桑卓",
+            "猪妹",
+            "诺手",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 2,
+            "帝国": 2,
+            "忍者": 1,
+            "恶魔": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 17,
+        "total_strength": 24.76183575154748
+    },
+    {
+        "combo": [
+            "火男",
+            "亚索",
+            "丽桑卓",
+            "狗熊",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "元素师": 3,
+            "冰川": 2,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 8,
+        "total_trait_strength": 11.7,
+        "total_strength": 20.425000044796615
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "蜘蛛",
+            "机器人",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.8,
+        "total_strength": 16.725937579027374
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "亚索",
+            "机器人",
+            "德莱文",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "帝国": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.799999,
+        "total_strength": 20.857422056654464
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "机器人",
+            "卡特",
+            "劫",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 13,
+        "total_strength": 18.85914107192308
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "机器人",
+            "卡特",
+            "阿卡丽",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 13,
+        "total_strength": 18.887265951223675
+    },
+    {
+        "combo": [
+            "乌鸦",
+            "机器人",
+            "德莱文",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.6,
+        "total_strength": 18.054297045059503
+    },
+    {
+        "combo": [
+            "维鲁斯",
+            "蜘蛛",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "恶魔": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.799999,
+        "total_strength": 18.10406253208872
+    },
+    {
+        "combo": [
+            "龙女",
+            "潘森",
+            "布隆",
+            "狗熊",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 17.7,
+        "total_strength": 21.000781176798043
+    },
+    {
+        "combo": [
+            "龙女",
+            "潘森",
+            "布隆",
+            "狗熊",
+            "机器人",
+            "阿卡丽"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 17.699999,
+        "total_strength": 21.821093662828204
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "亚索",
+            "布隆",
+            "狗熊",
+            "机器人"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 17.9,
+        "total_strength": 24.63359379204921
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "布隆",
+            "狗熊",
+            "机器人",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 17.699999,
+        "total_strength": 21.399218660034236
+    },
+    {
+        "combo": [
+            "龙王",
+            "潘森",
+            "布隆",
+            "狗熊",
+            "机器人",
+            "阿卡丽"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "龙": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 17.7,
+        "total_strength": 22.875781134888527
+    },
+    {
+        "combo": [
+            "龙王",
+            "亚索",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.5,
+        "total_strength": 16.61874998030253
+    },
+    {
+        "combo": [
+            "潘森",
+            "亚索",
+            "布隆",
+            "狗熊",
+            "机器人",
+            "劫"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 15.700001,
+        "total_strength": 20.032031503459436
+    },
+    {
+        "combo": [
+            "潘森",
+            "亚索",
+            "布隆",
+            "狗熊",
+            "机器人",
+            "凯南"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "忍者": 1,
+            "护卫": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 15.700001,
+        "total_strength": 20.688281492283565
+    },
+    {
+        "combo": [
+            "潘森",
+            "布隆",
+            "艾希",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "护卫": 2,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 18.3,
+        "total_strength": 27.231093326138794
+    },
+    {
+        "combo": [
+            "潘森",
+            "布隆",
+            "狗熊",
+            "机器人",
+            "挖掘机",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "护卫": 2,
+            "斗士": 4,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 16,
+        "total_trait_strength": 17.5,
+        "total_strength": 23.557030987553297
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "剑姬",
+            "盖伦",
+            "天使",
+            "慎"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "机器人": 1,
+            "浪人": 1,
+            "贵族": 3,
+            "骑士": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 17.3,
+        "total_strength": 20.714553700182137
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "剑姬",
+            "慎",
+            "卡密尔",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.799999,
+        "total_strength": 15.965624932618812
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "慎",
+            "卡密尔",
+            "蔚",
+            "金克斯"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "海克斯": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.5,
+        "total_strength": 17.59531248030253
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "劫",
+            "派克",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.9,
+        "total_strength": 15.296250244174157
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "劫",
+            "狮子狗",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.9,
+        "total_strength": 15.733750236723576
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "劫",
+            "狮子狗",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.9,
+        "total_strength": 17.083750310484326
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "阿卡丽",
+            "派克",
+            "螳螂",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.900001,
+        "total_strength": 18.02437527099625
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "阿卡丽",
+            "狮子狗",
+            "螳螂",
+            "挖掘机"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.9,
+        "total_strength": 17.111875189784918
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.900001,
+        "total_strength": 20.39312521539629
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 12.9,
+        "total_strength": 21.743125289157035
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "狼人",
+            "豹女",
+            "挖掘机",
+            "大虫子"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "斗士": 4,
+            "机器人": 1,
+            "浪人": 1,
+            "狂野": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 12.900002,
+        "total_strength": 16.93625016154721
+    },
+    {
+        "combo": [
+            "亚索",
+            "机器人",
+            "狼人",
+            "狮子狗",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "斗士": 2,
+            "机器人": 1,
+            "浪人": 1,
+            "狂野": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.900001,
+        "total_strength": 18.23000038869679
+    },
+    {
+        "combo": [
+            "亚索",
+            "劫",
+            "螳螂",
+            "挖掘机",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "浪人": 1,
+            "虚空": 4
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 16,
+        "total_strength": 20.21500029437244
+    },
+    {
+        "combo": [
+            "亚索",
+            "阿卡丽",
+            "螳螂",
+            "挖掘机",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "浪人": 1,
+            "虚空": 4
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 16,
+        "total_strength": 21.593125247433782
+    },
+    {
+        "combo": [
+            "布隆",
+            "狗熊",
+            "机器人",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.9,
+        "total_strength": 16.771250020843
+    },
+    {
+        "combo": [
+            "布隆",
+            "狗熊",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.900002,
+        "total_strength": 18.149374973904337
+    },
+    {
+        "combo": [
+            "丽桑卓",
+            "艾希",
+            "机器人",
+            "劫",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 14,
+        "total_strength": 17.81499980410095
+    },
+    {
+        "combo": [
+            "丽桑卓",
+            "艾希",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 14,
+        "total_strength": 19.193124757162295
+    },
+    {
+        "combo": [
+            "丽桑卓",
+            "狗熊",
+            "机器人",
+            "阿卡丽",
+            "螳螂",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "虚空": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.900002,
+        "total_strength": 18.149374973904337
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "猪妹",
+            "机器人",
+            "铁男",
+            "千珏"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "幽灵": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 19.4,
+        "total_strength": 19.490702714063225
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "机器人",
+            "盖伦",
+            "薇恩",
+            "天使"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "贵族": 3,
+            "骑士": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 17.9,
+        "total_strength": 18.366757274707783
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "机器人",
+            "盖伦",
+            "铁男",
+            "千珏"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "幽灵": 2,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 18.1,
+        "total_strength": 17.72078098285943
+    },
+    {
+        "combo": [
+            "艾希",
+            "猪妹",
+            "诺手",
+            "卡特",
+            "劫",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "帝国": 2,
+            "忍者": 1,
+            "游侠": 2,
+            "骑士": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 19.3,
+        "total_strength": 19.802235625704057
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "机器人",
+            "阿卡丽",
+            "派克",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "机器人": 1,
+            "游侠": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 14.799999,
+        "total_strength": 17.377148291724733
+    },
+    {
+        "combo": [
+            "薇恩",
+            "阿卡丽",
+            "螳螂",
+            "挖掘机",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "游侠": 2,
+            "虚空": 4
+        },
+        "total_trait_num": 16,
+        "total_trait_strength": 16.9,
+        "total_strength": 20.30406268631574
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "机器人",
+            "狼人",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "斗士": 4,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 13.999999,
+        "total_strength": 17.44062482987065
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "机器人",
+            "大虫子",
+            "卡萨",
+            "蔚"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "斗士": 4,
+            "机器人": 1,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 13.999999,
+        "total_strength": 19.80312481310684
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "劫",
+            "螳螂",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 14.7,
+        "total_strength": 18.90249994268175
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "阿卡丽",
+            "螳螂",
+            "挖掘机",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 14.7,
+        "total_strength": 20.280624895743088
+    },
+    {
+        "combo": [
+            "艾希",
+            "狗熊",
+            "阿卡丽",
+            "螳螂",
+            "大虫子",
+            "卡萨"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "刺客": 3,
+            "忍者": 1,
+            "斗士": 2,
+            "游侠": 2,
+            "虚空": 2
+        },
+        "total_trait_num": 11,
+        "total_trait_strength": 14.7,
+        "total_strength": 21.630624969503838
+    }
+]

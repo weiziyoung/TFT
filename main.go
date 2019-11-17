@@ -16,7 +16,8 @@ func start(teamSize int){
 	start := time.Now()
 	result := search.TraitBasedGraphSearch(globals.ChampionList, int(teamSize))
 	elapsed := time.Since(start)
-	fmt.Println("共耗时:", elapsed.Seconds(),
+	fmt.Println("人口:",teamSize,
+		"共耗时:", elapsed.Seconds(), "s",
 		"平均每秒遍历组合数:", float64(globals.Counter)/elapsed.Seconds(),
 		"共搜索结点个数:", globals.Counter)
 
@@ -29,7 +30,7 @@ func start(teamSize int){
 	if err != nil {
 		fmt.Println(err.Error())
 	}
-	dstFile, err := os.Create("data/champions_comb"+strconv.Itoa(teamSize)+".json")
+	dstFile, err := os.Create(globals.Global.OutPutPath+"champions_comb"+strconv.Itoa(teamSize)+".json")
 	if err != nil {
 		panic("打开文件句柄失败")
 	}
@@ -40,5 +41,5 @@ func start(teamSize int){
 }
 
 func main() {
-	start(8)
+	start(7)
 }
