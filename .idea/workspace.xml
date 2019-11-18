@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efe0865a-8d0d-4c0f-bcf6-a6e22a71bdcf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb10.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb8.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb10.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/champions_comb9.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/total_strength/champions_comb9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/final_result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/evaluate/evaluation.go" beforeDir="false" afterPath="$PROJECT_DIR$/evaluate/evaluation.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/globals/global.go" beforeDir="false" afterPath="$PROJECT_DIR$/globals/global.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/metrics.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/metrics.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_scripts/deduplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_scripts/deduplicate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/graph.go" beforeDir="false" afterPath="$PROJECT_DIR$/search/graph.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/search.go" beforeDir="false" afterPath="$PROJECT_DIR$/search/search.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/traverse.go" beforeDir="false" afterPath="$PROJECT_DIR$/search/traverse.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
